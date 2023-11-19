@@ -1,0 +1,32 @@
+[
+    {
+        "index": 0,
+        "path": "/images/slide/slide0.png",
+        "id":"e32c0e77-1771-4a18-abdf-53e860e92638",
+        "name":"Xiaomi MIX Fold 3"
+    },
+    {
+        "index": 1,
+        "path": "/images/slide/slide1.png",
+        "id":"2e53fa4f-466e-4e36-bc3b-a5b74a860d69",
+        "name":"Redmi K60 至尊版"
+    },
+    {
+        "index": 2,
+        "path": "/images/slide/slide2.png",
+        "id":"8c59cd27-c5a6-46f5-84d3-206230b769c0",
+        "name":"Xiaomi Pad6 Max"
+    },
+    {
+        "index": 3,
+        "path": "/images/slide/slide3.png",
+        "id":"handcuff8pro",
+        "name":"小米手环8 Pro"
+    },
+    {
+        "index": 4,
+        "path": "/images/slide/slide4.png",
+        "id":"ec06ca29-a0b4-4cc5-b247-3cf4f49f73d3",
+        "name":"CyberDog 2"
+    }
+]

@@ -1,0 +1,296 @@
+[
+    {
+        "title": "Xiaomi手机",
+        "children": [
+            {
+                "img_path": "/images/nav/nav0_0.png",
+                "name": "Xiaomi MIX Fold 3",
+                "price": "8999元起",
+                "id": "e32c0e77-1771-4a18-abdf-53e860e92638"
+            },
+            {
+                "img_path": "/images/nav/nav0_1.png",
+                "name": "Xiaomi Civi 3",
+                "price": "2499元起",
+                "id": "7458fdaf-9be1-44fa-80db-e2d0a4204eb1"
+            },
+            {
+                "img_path": "/images/nav/nav0_2.png",
+                "name": "Xiaomi 12S Pro",
+                "price": "2799元起",
+                "id": "c829980a-ff71-48b1-897f-9e74613063ce"
+            },
+            {
+                "img_path": "/images/nav/nav0_3.png",
+                "name": "Xiaomi 13 Ultra",
+                "price": "5999元起",
+                "id": "78e3d66b-de7a-468f-b387-568b29a43241"
+            },
+            {
+                "img_path": "/images/nav/nav0_4.png",
+                "name": "Xiaomi 13",
+                "price": "3999元起",
+                "id": "9430d0d3-f578-4777-95ae-51288d1245e2"
+            },
+            {
+                "img_path": "/images/nav/nav0_5.png",
+                "name": "Xiaomi 13 Pro",
+                "price": "4999元起",
+                "id": "6265314b-feac-4ec9-b1c8-74e8ca1e71e1"
+            }
+        ]
+    },
+    {
+        "title": "Redmi手机",
+        "children": [
+            {
+                "img_path": "/images/nav/nav1_0.png",
+                "name": "Redmi K60 至尊版",
+                "price": "2599元起",
+                "id": "2e53fa4f-466e-4e36-bc3b-a5b74a860d69"
+            },
+            {
+                "img_path": "/images/nav/nav1_1.png",
+                "name": "Redmi 12 5G",
+                "price": "949元起",
+                "id": "7f7a5bf1-9f66-471e-ae44-94ee250ec5f0"
+            },
+            {
+                "img_path": "/images/nav/nav1_2.png",
+                "name": "Redmi Note 12T Pro",
+                "price": "1499元起",
+                "id": "1541f042-7dd5-41e3-a4a1-5b0ca6230ce3"
+            },
+            {
+                "img_path": "/images/nav/nav1_3.png",
+                "name": "Redmi Note 12 Turbo",
+                "price": "1799元起",
+                "id": "6e0448bd-4f39-489e-9c0c-e7214f0d9c78"
+            },
+            {
+                "img_path": "/images/nav/nav1_4.png",
+                "name": "Redmi 12C",
+                "price": "619元起",
+                "id": "2a24d002-8418-4068-ab23-b8b76e774272"
+            },
+            {
+                "img_path": "/images/nav/nav1_5.png",
+                "name": "Redmi K60 Pro",
+                "price": "2899元起",
+                "id": "fe8394f8-9cea-47ee-adcf-b7b078268709"
+            }
+        ]
+    },
+    {
+        "title": "电视",
+        "children": [
+            {
+                "img_path": "/images/nav/nav2_0.png",
+                "name": "小米电视大师86英寸Mini LED",
+                "price": "14999元",
+                "id": "52e17c1d-2694-4650-821a-587f0091b3ea"
+            },
+            {
+                "img_path": "/images/nav/nav2_1.png",
+                "name": "小米电视S65   65英寸 ",
+                "price": "3099元",
+                "id": "678a013f-bd8d-4d71-b30d-11a972304541"
+            },
+            {
+                "img_path": "/images/nav/nav2_2.png",
+                "name": "小米电视A65竞技版   65英寸",
+                "price": "2499元",
+                "id": "680df366-a7fd-46d6-93ec-b08f64c7b34a"
+            },
+            {
+                "img_path": "/images/nav/nav2_3.png",
+                "name": "Redmi MAX 100\" 巨屏电视",
+                "price": "12999元",
+                "id": "5d88edaa-95f4-40ce-b9dd-893b45038bb2"
+            },
+            {
+                "img_path": "/images/nav/nav2_4.png",
+                "name": "Redmi 智能电视 X85英寸",
+                "price": "4999元",
+                "id": "8f7c7c6f-c362-40e4-aae5-38134e5012f1"
+            },
+            {
+                "img_path": "/images/nav/nav2_5.png",
+                "name": "Redmi 智能电视 A65 2024款 65英寸",
+                "price": "2199元",
+                "id": "5649fcf4-6a33-48f1-9646-546182f7d846"
+            }
+        ]
+    },
+    {
+        "title": "笔记本",
+        "children": [
+            {
+                "img_path": "/images/nav/nav3_0.png",
+                "name": "Redmi Book Pro 15 2023 锐龙版",
+                "price": "4799元起",
+                "id": "79e99a4a-d071-4bea-9b99-a5d3765b554a"
+            },
+            {
+                "img_path": "/images/nav/nav3_1.png",
+                "name": "Redmi Book 14",
+                "price": "4599元起",
+                "id": "96307129-bb06-43d9-a75e-9f04c9339b9d"
+            },
+            {
+                "img_path": "/images/nav/nav3_2.png",
+                "name": "Redmi G 游戏本 2022",
+                "price": "7499元起",
+                "id": "61ea4b31-f062-48c0-8fc5-4b3a6bcccacb"
+            },
+            {
+                "img_path": "/images/nav/nav3_3.png",
+                "name": "RedmiBook Pro 15 2022 锐龙版",
+                "price": "5499元起",
+                "id": "07e0f378-b680-49a2-bcb0-8d574c027a2c"
+            },
+            {
+                "img_path": "/images/nav/nav3_4.png",
+                "name": "Redmi G Pro 游戏本 锐龙版 ",
+                "price": "7299元起",
+                "id": "43ade02a-62e0-4955-975c-7d1efb3e992b"
+            },
+            {
+                "img_path": "/images/nav/nav3_5.png",
+                "name": "Redmi Book 15E",
+                "price": "3599元起",
+                "id": "b32ed885-b5dd-4e7c-8214-fdff21b5e74e"
+            }
+        ]
+    },
+    {
+        "title": "平板",
+        "children": [
+            {
+                "img_path": "/images/nav/nav4_0.png",
+                "name": "Xiaomi Pad 6 Max 14",
+                "price": "3799元起",
+                "id": "8c59cd27-c5a6-46f5-84d3-206230b769c0"
+            },
+            {
+                "img_path": "/images/nav/nav4_1.png",
+                "name": "Xiaomi Pad 6 Pro",
+                "price": "2399元起",
+                "id": "6fb0bb04-bfa7-4f83-ba6b-9936ab6a4481"
+            },
+            {
+                "img_path": "/images/nav/nav4_2.png",
+                "name": "Xiaomi Pad 6",
+                "price": "1849元起",
+                "id": "99f306a0-edf6-4f52-9779-78822f52a895"
+            },
+            {
+                "img_path": "/images/nav/nav4_3.png",
+                "name": "Redmi Pad",
+                "price": "1099元起",
+                "id": "052018ee-21a1-4fe2-adf0-85f136c4f185"
+            },
+            {
+                "img_path": "/images/nav/nav4_4.png",
+                "name": "小米平板5 Pro 12.4",
+                "price": "1999元起",
+                "id": "e2c7f886-b16c-4b4f-832c-5f5da2b267bf"
+            },
+            {
+                "img_path": "/images/nav/nav4_5.png",
+                "name": "小米平板5",
+                "price": "1799元起",
+                "id": "29f1e6f7-0704-4940-a0bd-a538d27b58e0"
+            }
+        ]
+    },
+    {
+        "title": "家电",
+        "children": [
+            {
+                "img_path": "/images/nav/nav5_0.png",
+                "name": "米家冰箱对开门610L墨羽岩  ",
+                "price": "2299元",
+                "id": "f3d5baec-3196-4d7d-9580-3bfe30643d79"
+            },
+            {
+                "img_path": "/images/nav/nav5_1.png",
+                "name": "米家冰箱 对开门536L 墨羽岩",
+                "price": "1999元",
+                "id": "c9effa40-da70-4893-9426-947457e22fb8"
+            },
+            {
+                "img_path": "/images/nav/nav5_2.png",
+                "name": "新风空调 立式3匹",
+                "price": "6999元",
+                "id": "a4919d79-a5c3-4faa-9c31-33e31d21c646"
+            },
+            {
+                "img_path": "/images/nav/nav5_3.png",
+                "name": "小米空调 1.5匹新1级能效",
+                "price": "2199元",
+                "id": "3dd0943f-d047-472c-b162-fd5a62e00381"
+            },
+            {
+                "img_path": "/images/nav/nav5_4.png",
+                "name": "米家分区洗烘一体机 15kg ",
+                "price": "4999元",
+                "id": "e64624c9-a0f2-4ed3-b3af-047d7d7ae1fc"
+            },
+            {
+                "img_path": "/images/nav/nav5_5.png",
+                "name": "米家洗烘一体机 12kg",
+                "price": "2099元",
+                "id": "54911a91-bcb6-4565-aaf8-0e7855877411"
+            }
+        ]
+    },
+    {
+        "title": "路由器",
+        "children": [
+            {
+                "img_path": "/images/nav/nav6_0.png",
+                "name": "Xiaomi路由器AX3000T",
+                "price": "189元",
+                "id": "d9d4ddc4-6b01-4625-99fe-db285a08e580"
+            },
+            {
+                "img_path": "/images/nav/nav6_1.png",
+                "name": "小米路由器AX6000",
+                "price": "469元",
+                "id": "b29b3e6c-80b9-453b-92ce-47820528106b"
+            },
+            {
+                "img_path": "/images/nav/nav6_2.png",
+                "name": "Xiaomi万兆路由器",
+                "price": "1699元",
+                "id": "364d98db-b660-4103-9255-7cf2dc234aad"
+            },
+            {
+                "img_path": "/images/nav/nav6_3.png",
+                "name": "Xiaomi HomeWiFi 三频 Mesh 路由器",
+                "price": "1299元",
+                "id": "2caed690-761e-46af-9e1f-4e68c70978b3"
+            },
+            {
+                "img_path": "/images/nav/nav6_4.png",
+                "name": "小米路由器4A 千兆版",
+                "price": "119元",
+                "id": "95e9be26-c552-470e-956a-5c19cae587d5"
+            },
+            {
+                "img_path": "/images/nav/nav6_5.png",
+                "name": "查看全部小米路由器",
+                "id": "58886f17-13ec-4fce-bb8f-52bbb85b3542"
+            }
+        ]
+    },
+    {
+        "title": "服务中心",
+        "children": []
+    },
+    {
+        "title": "社区",
+        "children": []
+    }
+]

@@ -1,0 +1,1870 @@
+[
+    {
+        "banner": [
+            {
+                "img_path": "/images/product/banner0_0.png",
+                "id": "2e53fa4f-466e-4e36-bc3b-a5b74a860d69",
+                "name": "Redmi K60 至尊版"
+            }
+        ],
+        "left_title": "手机",
+        "arr": [
+            [
+                {
+                    "id": "e32c0e77-1771-4a18-abdf-53e860e92638",
+                    "img_path": "/images/product/brick_item0_0_0.png",
+                    "name": "Xiaomi MIX Fold 3",
+                    "discription": "轻薄折叠屏丨徕卡光学丨全焦段四摄",
+                    "price": "8999",
+                    "is_half": false
+                },
+                {
+                    "id": "2e53fa4f-466e-4e36-bc3b-a5b74a860d69",
+                    "img_path": "/images/product/brick_item0_0_1.png",
+                    "name": "Redmi K60 至尊版",
+                    "discription": "旗舰体验全面超预期",
+                    "price": "2599",
+                    "is_half": false
+                },
+                {
+                    "id": "7f7a5bf1-9f66-471e-ae44-94ee250ec5f0",
+                    "img_path": "/images/product/brick_item0_0_2.png",
+                    "name": "Redmi 12 5G",
+                    "discription": "5G 骁龙芯，大屏大电量",
+                    "price": "949",
+                    "is_half": false
+                },
+                {
+                    "id": "1541f042-7dd5-41e3-a4a1-5b0ca6230ce3",
+                    "img_path": "/images/product/brick_item0_0_3.png",
+                    "name": "Redmi Note 12T Pro",
+                    "discription": "年度 LCD 屏幕之光",
+                    "price": "1499",
+                    "old_price": "1599元",
+                    "is_half": false
+                },
+                {
+                    "id": "7458fdaf-9be1-44fa-80db-e2d0a4204eb1",
+                    "img_path": "/images/product/brick_item0_0_4.png",
+                    "name": "Xiaomi Civi 3",
+                    "discription": "仿生双眸 天生出色",
+                    "price": "2499",
+                    "is_half": false
+                },
+                {
+                    "id": "78e3d66b-de7a-468f-b387-568b29a43241",
+                    "img_path": "/images/product/brick_item0_0_5.png",
+                    "name": "Xiaomi 13 Ultra",
+                    "discription": "徕卡光学全焦段四摄| 一英寸可变光圈| 徕卡专业街拍模式",
+                    "price": "5999",
+                    "is_half": false
+                },
+                {
+                    "id": "6e0448bd-4f39-489e-9c0c-e7214f0d9c78",
+                    "img_path": "/images/product/brick_item0_0_6.png",
+                    "name": "Redmi Note 12 Turbo",
+                    "discription": "狂暴引擎 超强性能释放",
+                    "price": "1799",
+                    "old_price": "1999元",
+                    "is_half": false
+                },
+                {
+                    "id": "a6df7920-c873-464a-9c9b-bbd73de5cea2",
+                    "img_path": "/images/product/brick_item0_0_7.png",
+                    "name": "Redmi K60",
+                    "discription": "骁龙8+｜2K 高光直屏｜5500mAh+67W闪充",
+                    "price": "2199",
+                    "old_price": "2599元",
+                    "is_half": false
+                }
+            ]
+        ],
+        "right_tabs": [
+            {
+                "type": 0,
+                "content": "查看更多"
+            }
+        ]
+    },
+    {
+        "banner": [
+            {
+                "name":"Xiaomi Watch S2",
+                "img_path": "/images/product/banner1_0.png",
+                "id": "f60fb38a-e5ec-4106-8293-0808e6cac594"
+            }
+        ],
+        "left_title": "智能穿戴",
+        "arr": [
+            [
+                {
+                    "id": "be8c9869-36f2-4016-9bb3-df104aa7e2ea",
+                    "img_path": "/images/product/brick_item1_0_0.png",
+                    "name": "Xiaomi Buds 4 Pro",
+                    "discription": "48dB智能动态降噪｜骨声纹通话降噪 | 独立空间音频",
+                    "price": "899",
+                    "old_price": "1099元",
+                    "is_half": false
+                },
+                {
+                    "id": "00e23d83-11bc-43e9-838c-fabc6425e1b8",
+                    "img_path": "/images/product/brick_item1_0_1.png",
+                    "name": "Xiaomi Buds 3 Pro",
+                    "discription": "40dB自适应降噪 ｜空间音频 ｜ HiFi高保真音质",
+                    "price": "399",
+                    "old_price": "699元",
+                    "is_half": false
+                },
+                {
+                    "id": "f2fd6802-d8d0-40d7-af91-188a606ba59b",
+                    "img_path": "/images/product/brick_item1_0_2.png",
+                    "name": "Xiaomi Buds 3",
+                    "discription": "40dB宽频主动降噪 | HiFi高保真音质 | HRTF专业调音",
+                    "price": "499",
+                    "is_half": false
+                },
+                {
+                    "id": "28ddc1bc-1b3a-4a81-9dee-1f0682836d5b",
+                    "img_path": "/images/product/brick_item1_0_3.png",
+                    "name": "Redmi Buds 4",
+                    "discription": "35dB 智能主动降噪 | AI 通话降噪 | 30小时超长续航",
+                    "price": "179",
+                    "old_price": "229元",
+                    "is_half": false
+                },
+                {
+                    "id": "2b3755cc-904c-4606-a373-ed6091143daa",
+                    "img_path": "/images/product/brick_item1_0_4.png",
+                    "name": "Redmi Buds 3",
+                    "discription": "轻巧半入耳 | 通话降噪 | 20小时长续航",
+                    "price": "139",
+                    "old_price": "199元",
+                    "is_half": false
+                },
+                {
+                    "id": "169bcbc0-bd15-4a6c-b390-eb6c6afd2fea",
+                    "img_path": "/images/product/brick_item1_0_5.png",
+                    "name": "小米真无线蓝牙耳机Air2 SE",
+                    "discription": "大尺寸动圈单元 | 20小时持久续航 | 双麦克风通话降噪",
+                    "price": "89",
+                    "old_price": "169元",
+                    "is_half": false
+                },
+                {
+                    "id": "13d1ee55-1d4f-48e2-9561-d64ccf064d50",
+                    "img_path": "/images/product/brick_item1_0_6.png",
+                    "name": "Xiaomi骨传导耳机",
+                    "discription": "骨传导传声 | 轻盈机身 | IP66防水防汗",
+                    "price": "599",
+                    "old_price": "699元",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "a61e9ed0-e38a-46ab-8319-05d3d3c9e131",
+                            "img_path": "/images/product/brick_item1_0_7.png",
+                            "name": "Xiaomi降噪蓝牙耳机Necklace",
+                            "price": "299",
+                            "is_half": true
+                        },
+                        {
+                            "id": "36e0a10e-dea8-436c-91df-30b02bdbe9aa",
+                            "is_half": true,
+                            "more_of_what": "耳机"
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "id": "b8b4b36a-636d-4cb7-b969-7832f3f9ecf6",
+                    "img_path": "/images/product/brick_item1_1_0.png",
+                    "name": "Redmi Watch 3 青春版",
+                    "discription": "1.83\"超大屏幕｜腕上蓝牙通话｜全天候血氧检测",
+                    "price": "349",
+                    "old_price": "399元",
+                    "is_half": false
+                },
+                {
+                    "id": "48b9dd99-9627-4ba9-b98e-3b5bd907b4b9",
+                    "img_path": "/images/product/brick_item1_1_1.png",
+                    "name": "小米手环8 NFC版",
+                    "discription": "多样快拆时尚腕带 | 跑步豆模式 | 体感互动拳击",
+                    "price": "259",
+                    "old_price": "299元",
+                    "is_half": false
+                },
+                {
+                    "id": "2537065b-62d7-42ed-b9ae-d31dcc2f43d9",
+                    "img_path": "/images/product/brick_item1_1_2.png",
+                    "name": "小米手环8",
+                    "discription": "多样快拆时尚腕带 | 跑步豆模式 | 体感互动拳击",
+                    "price": "219",
+                    "old_price": "249元",
+                    "is_half": false
+                },
+                {
+                    "id": "a908c66c-74be-412f-ba6e-f1c76b272103",
+                    "img_path": "/images/product/brick_item1_1_3.png",
+                    "name": "小米手环7 Pro",
+                    "discription": "全彩方形大屏 | 独立GPS定位 | 全天连续血氧饱和度监测",
+                    "price": "329",
+                    "old_price": "399元",
+                    "is_half": false
+                },
+                {
+                    "id": "fac93314-2c1e-46f0-9656-7d3d219e7c17",
+                    "img_path": "/images/product/brick_item1_1_4.png",
+                    "name": "小米手环7",
+                    "discription": "1.62″AMOLED 跑道屏 | 四大专业运动数据分析 | 全天连续血氧饱和度监测",
+                    "price": "199",
+                    "old_price": "249元",
+                    "is_half": false
+                },
+                {
+                    "id": "8f2821bc-2489-4893-902c-4747bb3b90d8",
+                    "img_path": "/images/product/brick_item1_1_5.png",
+                    "name": "Xiaomi Watch S1",
+                    "discription": "蓝宝石玻璃镜面 | 不锈钢中框 | 全天候血氧监测",
+                    "price": "699",
+                    "old_price": "1099元",
+                    "is_half": false
+                },
+                {
+                    "id": "6b7a16ab-e9d1-4c5d-80e4-e31130154049",
+                    "img_path": "/images/product/brick_item1_1_6.png",
+                    "name": "Xiaomi Watch S1 Pro",
+                    "discription": "双面蓝宝石玻璃镜面丨全天候血氧监测丨微信消息回复",
+                    "price": "1499",
+                    "old_price": "1599元",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "a503355b-916c-448b-a702-30c08f13eac2",
+                            "img_path": "/images/product/brick_item1_1_7.png",
+                            "name": "Redmi Watch 3",
+                            "price": "469",
+                            "is_half": true
+                        },
+                        {
+                            "id": "b9f8c633-8894-4dcf-9c51-14600e878ca0",
+                            "is_half": true,
+                            "more_of_what": "穿戴"
+                        }
+                    ]
+                }
+            ]
+        ],
+        "right_tabs": [
+            {
+                "type": 1,
+                "content": "耳机"
+            },
+            {
+                "type": 1,
+                "content": "穿戴"
+            }
+        ]
+    },
+    {
+        "banner": [
+            {
+                "name":"Redmi Book 14",
+                "img_path": "/images/product/banner2_0.png",
+                "id": "96307129-bb06-43d9-a75e-9f04c9339b9d"
+            }
+        ],
+        "left_title": "笔记本 | 平板",
+        "arr": [
+            [
+                {
+                    "id": "61ea4b31-f062-48c0-8fc5-4b3a6bcccacb",
+                    "img_path": "/images/product/brick_item2_0_0.png",
+                    "name": "Redmi G 游戏本 2022",
+                    "discription": "16英寸 2.5K 165Hz 电竞大屏",
+                    "price": "7499",
+                    "is_half": false
+                },
+                {
+                    "id": "6fb0bb04-bfa7-4f83-ba6b-9936ab6a4481",
+                    "img_path": "/images/product/brick_item2_0_1.png",
+                    "name": "Xiaomi Pad 6 Pro",
+                    "discription": "骁龙8+旗舰处理器｜11英寸2.8K护眼屏｜8600mAh 67W快充｜MIUI高效办公体验",
+                    "price": "2399",
+                    "old_price": "2499元",
+                    "is_half": false
+                },
+                {
+                    "id": "99f306a0-edf6-4f52-9779-78822f52a895",
+                    "img_path": "/images/product/brick_item2_0_2.png",
+                    "name": "Xiaomi Pad 6",
+                    "discription": "11英寸2.8K护眼屏｜骁龙870旗舰处理器｜8840mAh大电量｜MIUI高效办公体验",
+                    "price": "1849",
+                    "old_price": "1999元",
+                    "is_half": false
+                },
+                {
+                    "id": "07e0f378-b680-49a2-bcb0-8d574c027a2c",
+                    "img_path": "/images/product/brick_item2_0_3.png",
+                    "name": "RedmiBook Pro 15 2022 锐龙版",
+                    "discription": "可选全新锐龙7 6800H处理器，3.2K 90Hz高清屏，RTX 2050高性能独立显卡，CNC一体精雕工艺",
+                    "price": "5499",
+                    "is_half": false
+                },
+                {
+                    "id": "b32ed885-b5dd-4e7c-8214-fdff21b5e74e",
+                    "img_path": "/images/product/brick_item2_0_4.png",
+                    "name": "Redmi Book 15E",
+                    "discription": "15.6‘’ 全高清大屏",
+                    "price": "3599",
+                    "is_half": false
+                },
+                {
+                    "id": "43ade02a-62e0-4955-975c-7d1efb3e992b",
+                    "img_path": "/images/product/brick_item2_0_5.png",
+                    "name": "Redmi G Pro 游戏本 锐龙版",
+                    "discription": "全新AMD 锐龙 7 6800H 标压处理器 | GeForce RTX™ 3060 光追独显 | 16英寸 2.5K 240Hz 专业电竞屏",
+                    "price": "7299",
+                    "is_half": false
+                },
+                {
+                    "id": "7878a909-e716-4b01-895c-f470023a6243",
+                    "img_path": "/images/product/brick_item2_0_6.png",
+                    "name": "RedmiBook Pro 14 锐龙版",
+                    "discription": "2.5K超视网膜全面屏",
+                    "price": "4599",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "66cf2136-ff40-4454-bc28-e3cdab4d27bc",
+                            "img_path": "/images/product/brick_item2_0_7.png",
+                            "name": "Redmi Book Pro 14 2022",
+                            "price": "5399",
+                            "is_half": true
+                        },
+                        {
+                            "id": "2971666b-90f0-46fa-aeac-62dc03b50abf",
+                            "is_half": true,
+                            "more_of_what": "热门"
+                        }
+                    ]
+                }
+            ]
+        ],
+        "right_tabs": [
+            {
+                "type": 1,
+                "content": "热门"
+            }
+        ]
+    },
+    {
+        "banner": [
+            {
+                "name":"小米电视6 OLED系列",
+                "img_path": "/images/product/banner3_0.png",
+                "id": "c829dc7f-6e00-4c3b-b889-f76b56ce3d9b"
+            },
+            {
+                "name":"米家洗烘一体机 12kg",
+                "img_path": "/images/product/banner3_1.png",
+                "id": "54911a91-bcb6-4565-aaf8-0e7855877411"
+            }
+        ],
+        "left_title": "家电",
+        "arr": [
+            [
+                {
+                    "id": "c829dc7f-6e00-4c3b-b889-f76b56ce3d9b",
+                    "img_path": "/images/product/brick_item3_0_0.png",
+                    "name": "小米电视6 65” OLED",
+                    "discription": "OLED自发光屏 | 百万级对比度 | 4.6mm超薄全面屏",
+                    "price": "5999",
+                    "old_price": "6999元",
+                    "is_half": false
+                },
+                {
+                    "id": "1937c437-5c03-497d-82fa-d2145031fe99",
+                    "img_path": "/images/product/brick_item3_0_1.png",
+                    "name": "小米电视6 至尊版 65英寸",
+                    "discription": "百级分区背光 | 双120Hz高刷 | 4.5GB+64GB",
+                    "price": "6899",
+                    "old_price": "7999元",
+                    "is_half": false
+                },
+                {
+                    "id": "a075f888-c0c0-464d-bfc2-feab125ba0d5",
+                    "img_path": "/images/product/brick_item3_0_2.png",
+                    "name": "小米电视 ES55 2022款",
+                    "discription": "多分区背光 | MEMC动态补偿 | 杜比视界",
+                    "price": "2499",
+                    "old_price": "2999元",
+                    "is_half": false
+                },
+                {
+                    "id": "e190b845-8911-45d4-9739-c3c25c6b3335",
+                    "img_path": "/images/product/brick_item3_0_3.png",
+                    "name": "巨省电 小米空调 1.5匹新1级能效",
+                    "discription": "强劲制冷 | 高效节能 | 智能互联",
+                    "price": "2199",
+                    "old_price": "2499元",
+                    "is_half": false
+                },
+                {
+                    "id": "a4919d79-a5c3-4faa-9c31-33e31d21c646",
+                    "img_path": "/images/product/brick_item3_0_4.png",
+                    "name": "米家新风空调 立式3匹",
+                    "discription": "全屋快通风，就要大新风",
+                    "price": "6999",
+                    "old_price": "7299元",
+                    "is_half": false
+                },
+                {
+                    "id": "e64624c9-a0f2-4ed3-b3af-047d7d7ae1fc",
+                    "img_path": "/images/product/brick_item3_0_5.png",
+                    "name": "米家分区洗烘一体机 15kg",
+                    "discription": "健康分开洗 一台就够了",
+                    "price": "4999",
+                    "old_price": "5999元",
+                    "is_half": false
+                },
+                {
+                    "id": "a06a83f4-0b82-4de3-bcf7-19acfc3b1176",
+                    "img_path": "/images/product/brick_item3_0_6.png",
+                    "name": "米家波轮洗衣机 10kg",
+                    "discription": "全景玻璃阻尼上盖 防夹手",
+                    "price": "999",
+                    "old_price": "1499元",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "ff923bae-ee49-4e6f-a280-63753cdb7d1a",
+                            "img_path": "/images/product/brick_item3_0_7.png",
+                            "name": "米家迷你波轮洗衣机Pro 3kg",
+                            "price": "799",
+                            "is_half": true
+                        },
+                        {
+                            "id": "150d6f1a-5191-4d12-b688-9539bb6a72d8",
+                            "is_half": true,
+                            "more_of_what": "热门"
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "id": "35eb709a-9612-4880-ad17-1222a919d046",
+                    "img_path": "/images/product/brick_item3_1_0.png",
+                    "name": "小米电视EA65 2022款65英寸",
+                    "discription": "金属全面屏 | 4K超高清 | 远场语音",
+                    "price": "2399",
+                    "old_price": "2899元",
+                    "is_half": false
+                },
+                {
+                    "id": "cee1fa43-188e-4d43-802e-cdd9f2e7c567",
+                    "img_path": "/images/product/brick_item3_1_1.png",
+                    "name": "小米电视 EA75 2022款",
+                    "discription": "金属全面屏 | 4K超高清 | 远场语音",
+                    "price": "2999",
+                    "old_price": "4199元",
+                    "is_half": false
+                },
+                {
+                    "id": "367920e1-4c71-49c4-8165-bbc818918ac7",
+                    "img_path": "/images/product/brick_item3_1_2.png",
+                    "name": "Redmi MAX 86″ 超大屏电视",
+                    "discription": "多分区背光 | 双120Hz高刷 | HDMI 2.1接口",
+                    "price": "5999",
+                    "old_price": "7999元",
+                    "is_half": false
+                },
+                {
+                    "id": "613c02ec-091f-438c-bb29-055e52a08611",
+                    "img_path": "/images/product/brick_item3_1_3.png",
+                    "name": "小米电视 EA50 2022款",
+                    "discription": "金属全面屏 | 4K超高清 | 远场语音",
+                    "price": "1499",
+                    "old_price": "1899元",
+                    "is_half": false
+                },
+                {
+                    "id": "01b00fbe-6c09-4f40-b713-8514cba06cca",
+                    "img_path": "/images/product/brick_item3_1_4.png",
+                    "name": "小米电视大师 86英寸 Mini LED",
+                    "discription": "千级分区 Mini LED",
+                    "price": "14999",
+                    "old_price": "15999元",
+                    "is_half": false
+                },
+                {
+                    "id": "8f7c7c6f-c362-40e4-aae5-38134e5012f1",
+                    "img_path": "/images/product/brick_item3_1_5.png",
+                    "name": "Redmi 智能电视 X85英寸",
+                    "discription": "120Hz刷新率|3GB+32GB|远场语音",
+                    "price": "4799",
+                    "old_price": "4999元",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "1c04660b-d2a5-4c24-ba3b-df5298f9ccd0",
+                            "is_half": true,
+                            "more_of_what": "电视影音"
+                        }
+                    ]
+                }
+            ]
+        ],
+        "right_tabs": [
+            {
+                "type": 1,
+                "content": "热门"
+            },
+            {
+                "type": 1,
+                "content": "电视影音"
+            }
+        ]
+    },
+    {
+        "banner": [
+            {
+                "name":"米家全能扫拖机器人 1S",
+                "img_path": "/images/product/banner4_0.png",
+                "id": "2cd5529c-1359-4b73-acad-d33852481177"
+            },
+            {
+                "name":"米家消毒空气净化器",
+                "img_path": "/images/product/banner4_1.png",
+                "id": "0070de08-ba43-4b2f-899d-40a90e71bd15"
+            }
+        ],
+        "left_title": "生活电器",
+        "arr": [
+            [
+                {
+                    "id": "b2035606-14ed-4bf6-9905-cea912627ae4",
+                    "img_path": "/images/product/brick_item4_0_0.png",
+                    "name": "米家电暖器 温控版",
+                    "discription": "2200W 强劲功率，对流速热，居浴两用",
+                    "price": "329",
+                    "is_half": false
+                },
+                {
+                    "id": "bb8db5d0-3352-4c1f-b107-d447f46ed324",
+                    "img_path": "/images/product/brick_item4_0_1.png",
+                    "name": "米家石墨烯踢脚线电暖器 仿真火焰版",
+                    "discription": "加湿+火焰效果 | 悬浮外观 | 双核石墨烯速热",
+                    "price": "1599",
+                    "is_half": false
+                },
+                {
+                    "id": "6f7c2709-c945-481f-a0a0-ad80dc6d21d3",
+                    "img_path": "/images/product/brick_item4_0_2.png",
+                    "name": "米家石墨烯智能电暖器",
+                    "discription": "石墨烯高导热，即开即暖无需等",
+                    "price": "549",
+                    "is_half": false
+                },
+                {
+                    "id": "0c651032-123a-4941-98be-5ebb2506ea49",
+                    "img_path": "/images/product/brick_item4_0_3.png",
+                    "name": "米家踢脚线电暖器E",
+                    "discription": "制暖身材小，抵御寒冬功劳大",
+                    "price": "499",
+                    "is_half": false
+                },
+                {
+                    "id": "e3bc5555-0e1c-4b7b-8c3e-31b9cb8409e0",
+                    "img_path": "/images/product/brick_item4_0_4.png",
+                    "name": "米家石墨烯折叠踢脚线电暖器 超薄版",
+                    "discription": "0°-180°百变折叠不占地|石墨烯速热|智能恒温",
+                    "price": "899",
+                    "is_half": false
+                },
+                {
+                    "id": "ececc25e-1d2d-45ac-896c-ae24977c5f59",
+                    "img_path": "/images/product/brick_item4_0_5.png",
+                    "name": "米家立式暖风机Lite",
+                    "discription": "3秒即热/70°广角送风/智能恒温/四种模式",
+                    "price": "349",
+                    "is_half": false
+                },
+                {
+                    "id": "1e3e3f91-8956-45eb-b062-1076554494ba",
+                    "img_path": "/images/product/brick_item4_0_6.png",
+                    "name": "米家石墨烯踢脚线电暖器",
+                    "discription": "石墨烯速热取暖，快上加快",
+                    "price": "749",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "a46bad04-6cf7-47b0-bf76-f4be27e3a873",
+                            "img_path": "/images/product/brick_item4_0_7.png",
+                            "name": "米家直流变频两季扇",
+                            "price": "799",
+                            "is_half": true
+                        },
+                        {
+                            "id": "2a1e4cda-a763-44ae-bf77-3ba085601ad8",
+                            "is_half": true,
+                            "more_of_what": "电暖器"
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "id": "c12550c5-63da-4dc4-ae76-6e7f0d75c7e7",
+                    "img_path": "/images/product/brick_item4_1_0.png",
+                    "name": "米家全能扫拖机器人",
+                    "discription": "免洗集尘全自动，一机解放双手",
+                    "price": "2899",
+                    "old_price": "4599元",
+                    "is_half": false
+                },
+                {
+                    "id": "9249921f-0c46-40d4-93f1-0959361e0591",
+                    "img_path": "/images/product/brick_item4_1_1.png",
+                    "name": "米家扫拖机器人 2Pro",
+                    "discription": "扫拖除菌一步到位",
+                    "price": "1799",
+                    "old_price": "2699元",
+                    "is_half": false
+                },
+                {
+                    "id": "ec6734f4-108b-4b3d-99f2-46e06e3af497",
+                    "img_path": "/images/product/brick_item4_1_2.png",
+                    "name": "米家扫拖机器人2",
+                    "discription": "经典延续，全面升级",
+                    "price": "1299",
+                    "old_price": "1799元",
+                    "is_half": false
+                },
+                {
+                    "id": "7e0d6d2c-1e1a-4d44-8baa-9a8d38e5317f",
+                    "img_path": "/images/product/brick_item4_1_3.png",
+                    "name": "米家集尘扫拖机器人",
+                    "discription": "自动倒垃圾，45天手不沾尘",
+                    "price": "1799",
+                    "old_price": "2999元",
+                    "is_half": false
+                },
+                {
+                    "id": "0b766692-5385-4436-9f7a-00531a96a335",
+                    "img_path": "/images/product/brick_item4_1_4.png",
+                    "name": "米家扫拖机器人 1T",
+                    "discription": "3D精准避障，扫拖不再碰撞",
+                    "price": "999",
+                    "old_price": "1999元",
+                    "is_half": false
+                },
+                {
+                    "id": "bca9c6b1-a6cb-4202-9698-bf154c6f1cd6",
+                    "img_path": "/images/product/brick_item4_1_5.png",
+                    "name": "米家扫拖机器人 2C",
+                    "discription": "抗菌去渍二合一，开启生活新净界",
+                    "price": "1499",
+                    "is_half": false
+                },
+                {
+                    "id": "c2995045-18e3-487a-a22a-1e429645b2b4",
+                    "img_path": "/images/product/brick_item4_1_6.png",
+                    "name": "米家扫拖机器人 Pro",
+                    "discription": "AI智能识别 3D精准避障",
+                    "price": "2699",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "74104630-412e-40be-960b-7a487c5c39b6",
+                            "img_path": "/images/product/brick_item4_1_7.png",
+                            "name": "米家免洗扫拖机器人",
+                            "price": "1859",
+                            "is_half": true
+                        },
+                        {
+                            "id": "2078b98b-9c0e-47f1-82f0-e90757dbc1ad",
+                            "is_half": true,
+                            "more_of_what": "扫地机"
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "id": "c603dee6-d79c-4c59-941e-97ba142b0307",
+                    "img_path": "/images/product/brick_item4_2_0.png",
+                    "name": "米家空气净化器 4 Pro",
+                    "discription": "除醛抗菌升级",
+                    "price": "1099",
+                    "old_price": "1499元",
+                    "is_half": false
+                },
+                {
+                    "id": "7d53d563-f770-49bd-8d52-8bd68eb8d3f2",
+                    "img_path": "/images/product/brick_item4_2_1.png",
+                    "name": "米家空气净化器Pro H 高效除菌",
+                    "discription": "0.3微米级净化 部分细菌滤除率高达99.9%",
+                    "price": "1399",
+                    "old_price": "1699元",
+                    "is_half": false
+                },
+                {
+                    "id": "8baa8ac3-f69c-4a5a-89fd-8ef20c4a9ddf",
+                    "img_path": "/images/product/brick_item4_2_2.png",
+                    "name": "米家空气净化器MAX 增强版",
+                    "discription": "为大空间而生，除醛除味全效净化",
+                    "price": "1999",
+                    "old_price": "2199元",
+                    "is_half": false
+                },
+                {
+                    "id": "a89f71da-4f00-4eb7-8672-6ab0a9904b26",
+                    "img_path": "/images/product/brick_item4_2_3.png",
+                    "name": "米家空气净化器F1",
+                    "discription": "去甲醛、除病菌、净雾霾三效合一",
+                    "price": "1199",
+                    "is_half": false
+                },
+                {
+                    "id": "6b5ec9e9-f4a9-46ac-a564-bcbc01c686b3",
+                    "img_path": "/images/product/brick_item4_2_4.png",
+                    "name": "米家桌面空气净化器",
+                    "discription": "一对一净化，好空气直达面前",
+                    "price": "399",
+                    "is_half": false
+                },
+                {
+                    "id": "909b9e54-c734-4781-8491-025185df547b",
+                    "img_path": "/images/product/brick_item4_2_5.png",
+                    "name": "米家空气净化器 4 Lite",
+                    "discription": "洁净家中小天地，助你奔赴大世界",
+                    "price": "599",
+                    "old_price": "699元",
+                    "is_half": false
+                },
+                {
+                    "id": "c5dca553-1325-41c4-beea-7a2f0987cfe5",
+                    "img_path": "/images/product/brick_item4_2_6.png",
+                    "name": "米家空气净化器 4",
+                    "discription": "抗菌除霾好空气，焕新健康新活力",
+                    "price": "899",
+                    "old_price": "999元",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "71beb095-19e3-4f63-8132-8458c61c2a6c",
+                            "is_half": true,
+                            "more_of_what": "空净"
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "id": "c771c54e-6417-462a-9da6-e1e7ebda7cf3",
+                    "img_path": "/images/product/brick_item4_3_0.png",
+                    "name": "米家轻羽无线吸尘器",
+                    "discription": "1.2kg超轻主机",
+                    "price": "1199",
+                    "old_price": "1499元",
+                    "is_half": false
+                },
+                {
+                    "id": "dcdbced5-712e-4ac3-89c1-0aeb4e5a32fc",
+                    "img_path": "/images/product/brick_item4_3_1.png",
+                    "name": "米家除螨仪",
+                    "discription": "深层除螨实力派",
+                    "price": "209",
+                    "old_price": "219元",
+                    "is_half": false
+                },
+                {
+                    "id": "2d6e1d1e-3b01-435f-a66d-a5f1a0fb3710",
+                    "img_path": "/images/product/brick_item4_3_2.png",
+                    "name": "米家吸尘器",
+                    "discription": "强劲吸尘性能，轻松清洁家居",
+                    "price": "199",
+                    "is_half": false
+                },
+                {
+                    "id": "76fbce18-537e-41aa-817d-e12971983c5f",
+                    "img_path": "/images/product/brick_item4_3_3.png",
+                    "name": "米家随手吸尘器",
+                    "discription": "干净随手吸",
+                    "price": "219",
+                    "old_price": "249元",
+                    "is_half": false
+                },
+                {
+                    "id": "50b38704-d771-4072-8d22-d325a20a67fc",
+                    "img_path": "/images/product/brick_item4_3_4.png",
+                    "name": "米家无线吸尘器K10",
+                    "discription": "深度清洁，“家务”事半功倍",
+                    "price": "1199",
+                    "old_price": "1399元",
+                    "is_half": false
+                },
+                {
+                    "id": "04a6cbc0-a4f4-441a-bf61-464b7daa10bf",
+                    "img_path": "/images/product/brick_item4_3_5.png",
+                    "name": "米家无线除螨仪",
+                    "discription": "每个家庭都需要一台除螨仪",
+                    "price": "599",
+                    "old_price": "649元",
+                    "is_half": false
+                },
+                {
+                    "id": "33395d00-2f1a-4788-9b95-39ca1d3b2a45",
+                    "img_path": "/images/product/brick_item4_3_6.png",
+                    "name": "米家无线吸尘器Lite",
+                    "discription": "兼顾轻巧与吸力，强劲除尘新体验",
+                    "price": "499",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "a321646b-73d1-4bf6-8b28-071fdbe19215",
+                            "img_path": "/images/product/brick_item4_3_7.png",
+                            "name": "米家双刷无线吸尘器",
+                            "price": "799",
+                            "is_half": true
+                        },
+                        {
+                            "id": "c07fd8a9-1b91-4df3-bb8c-a018208183de",
+                            "is_half": true,
+                            "more_of_what": "清洁"
+                        }
+                    ]
+                }
+            ]
+        ],
+        "right_tabs": [
+            {
+                "type": 1,
+                "content": "电暖器"
+            },
+            {
+                "type": 1,
+                "content": "扫地机"
+            },
+            {
+                "type": 1,
+                "content": "空净"
+            },
+            {
+                "type": 1,
+                "content": "清洁"
+            }
+        ]
+    },
+    {
+        "banner": [
+            {
+                "name":"小米双核净水器1200G",
+                "img_path": "/images/product/banner5_0.png",
+                "id": "b16837ed-5dc7-4eda-89ab-6fb6f2366830"
+            },
+            {
+                "name":"米家侧吸油烟机S1",
+                "img_path": "/images/product/banner5_1.png",
+                "id": "ced0aff9-1176-47f9-bf58-a2a20e47d5f8"
+            }
+        ],
+        "left_title": "厨房电器",
+        "arr": [
+            [
+                {
+                    "id": "72b5968c-0acf-46cc-8796-a5243f635680",
+                    "img_path": "/images/product/brick_item5_0_0.png",
+                    "name": "米家净水器1600G",
+                    "discription": "2.1秒一杯水，还原自来水的澎湃流速",
+                    "price": "3799",
+                    "old_price": "4599元",
+                    "is_half": false
+                },
+                {
+                    "id": "b16837ed-5dc7-4eda-89ab-6fb6f2366830",
+                    "img_path": "/images/product/brick_item5_0_1.png",
+                    "name": "小米双核净水器1200G",
+                    "discription": "3.2L/min大流量，鲜活首杯水",
+                    "price": "2999",
+                    "old_price": "3499元",
+                    "is_half": false
+                },
+                {
+                    "id": "8f8a5b89-98a3-446c-8357-91a5e52381e9",
+                    "img_path": "/images/product/brick_item5_0_2.png",
+                    "name": "小米即热净水器Q600",
+                    "discription": "净热一体，1秒速热，精选调温每1℃",
+                    "price": "2299",
+                    "old_price": "3499元",
+                    "is_half": false
+                },
+                {
+                    "id": "abbe9109-c34f-4488-b66f-767d082db00a",
+                    "img_path": "/images/product/brick_item5_0_3.png",
+                    "name": "小米净水器H600G",
+                    "discription": "纯净生活双出水，六级过滤健康直饮",
+                    "price": "1199",
+                    "old_price": "1499元",
+                    "is_half": false
+                },
+                {
+                    "id": "e6dc62b2-0dd5-429e-8d60-7e78d8b803cf",
+                    "img_path": "/images/product/brick_item5_0_4.png",
+                    "name": "米家净水器1000G",
+                    "discription": "澎湃大水量，5年免换RO滤芯",
+                    "price": "1999",
+                    "old_price": "2499元",
+                    "is_half": false
+                },
+                {
+                    "id": "b16837ed-5dc7-4eda-89ab-6fb6f2366830",
+                    "img_path": "/images/product/brick_item5_0_5.png",
+                    "name": "小米双核净水器1200G",
+                    "discription": "3.2L/min大流量，鲜活首杯水",
+                    "price": "2999",
+                    "old_price": "3499元",
+                    "is_half": false
+                },
+                {
+                    "id": "65a684a2-d83d-4474-930f-652b2fbfa80f",
+                    "img_path": "/images/product/brick_item5_0_6.png",
+                    "name": "小米净水器H800G Pro",
+                    "discription": "长效过滤，鲜活好水随心出",
+                    "price": "1699",
+                    "old_price": "1999元",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "fcd6295f-c31b-4db1-aa61-f26abdd0fba2",
+                            "img_path": "/images/product/brick_item5_0_7.png",
+                            "name": "小米即热净水器Q800",
+                            "price": "2999",
+                            "is_half": true
+                        },
+                        {
+                            "id": "8dde1643-b926-410b-93d5-6741fb48b617",
+                            "is_half": true,
+                            "more_of_what": "净水器"
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "id": "846c9f58-2e66-422e-b039-4fc1f2289c4b",
+                    "img_path": "/images/product/brick_item5_1_0.png",
+                    "name": "米家互联网吸油烟机",
+                    "discription": "颜值过人的大吸力油烟机",
+                    "price": "1499",
+                    "is_half": false
+                },
+                {
+                    "id": "9f7e04cd-330e-42e7-8b77-bd0e9c506506",
+                    "img_path": "/images/product/brick_item5_1_1.png",
+                    "name": "米家燃气灶S1 4200W",
+                    "discription": "4200W大火力",
+                    "price": "549",
+                    "old_price": "699元",
+                    "is_half": false
+                },
+                {
+                    "id": "ced0aff9-1176-47f9-bf58-a2a20e47d5f8",
+                    "img_path": "/images/product/brick_item5_1_2.png",
+                    "name": "米家侧吸油烟机S1",
+                    "discription": "挥手排烟，洁净烹饪",
+                    "price": "949",
+                    "old_price": "1199元",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "cdf8de49-524b-4a88-9fc6-474a3e1c9114",
+                            "is_half": true,
+                            "more_of_what": "烟灶"
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "id": "94ce80c5-a611-4bb3-a6f1-8b2e3edf1abe",
+                    "img_path": "/images/product/brick_item5_2_0.png",
+                    "name": "米家智能电饭煲 微压版 3L",
+                    "discription": "看得见的真微压",
+                    "price": "369",
+                    "old_price": "499元",
+                    "is_half": false
+                },
+                {
+                    "id": "bdb12ef1-d147-468b-a4df-d2c7f1b4cf2a",
+                    "img_path": "/images/product/brick_item5_2_1.png",
+                    "name": "米家智能电压力锅5L",
+                    "discription": "一锅双胆，9挡调节口感",
+                    "price": "369",
+                    "old_price": "399元",
+                    "is_half": false
+                },
+                {
+                    "id": "06be8a09-839c-4cb2-a87c-31619d7218bb",
+                    "img_path": "/images/product/brick_item5_2_2.png",
+                    "name": "米家电饭煲C1",
+                    "discription": "快慢收放自如，小巧身材内有乾坤",
+                    "price": "159",
+                    "is_half": false
+                },
+                {
+                    "id": "9bc3cec0-921a-4db7-876e-6510910ca85a",
+                    "img_path": "/images/product/brick_item5_2_3.png",
+                    "name": "米家智能电压力锅2.5L",
+                    "discription": "煮饭快，焖炖煲煮一机多能",
+                    "price": "269",
+                    "old_price": "299元",
+                    "is_half": false
+                },
+                {
+                    "id": "a9f99cfc-62c7-43a4-a9f3-d95a9740fd56",
+                    "img_path": "/images/product/brick_item5_2_4.png",
+                    "name": "米家智能调压电压力锅5L",
+                    "discription": "智能无极调压",
+                    "price": "569",
+                    "old_price": "599元",
+                    "is_half": false
+                },
+                {
+                    "id": "4d62280a-1b69-4303-9a53-83d127a8590b",
+                    "img_path": "/images/product/brick_item5_2_5.png",
+                    "name": "米家智能压力IH电饭煲1S 3L",
+                    "discription": "压力IH加热 智能烹饪",
+                    "price": "899",
+                    "old_price": "999元",
+                    "is_half": false
+                },
+                {
+                    "id": "55f381f6-148b-49a9-8ef7-4f114f4ce379",
+                    "img_path": "/images/product/brick_item5_2_6.png",
+                    "name": "米家透明蒸汽电饭煲 4L",
+                    "discription": "可视化烹饪 | 无涂层玻璃内胆 | 沥汤蒸饭&慢炖",
+                    "price": "499",
+                    "old_price": "699元",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "f3108ac4-3f9c-44d6-89d8-de3bca503581",
+                            "img_path": "/images/product/brick_item5_2_7.png",
+                            "name": "米家智能小饭煲 2",
+                            "price": "179",
+                            "is_half": true
+                        },
+                        {
+                            "id": "14565fc7-176b-4739-a1d9-041964e7abe8",
+                            "is_half": true,
+                            "more_of_what": "电饭煲"
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "id": "75e35606-6bb6-44af-afb7-c529ec1de5c1",
+                    "img_path": "/images/product/brick_item5_3_0.png",
+                    "name": "米家智能蒸烤箱",
+                    "discription": "30L大容积， 蒸烤烘炸炖一机多用",
+                    "price": "999",
+                    "old_price": "1499元",
+                    "is_half": false
+                },
+                {
+                    "id": "74c4beee-1a17-49fd-8466-f835b6df0d07",
+                    "img_path": "/images/product/brick_item5_3_1.png",
+                    "name": "米家微波炉",
+                    "discription": "APP操控，精选食谱",
+                    "price": "409",
+                    "old_price": "449元",
+                    "is_half": false
+                },
+                {
+                    "id": "52814491-bf3e-4a77-b9f0-5c19c6a601c6",
+                    "img_path": "/images/product/brick_item5_3_2.png",
+                    "name": "米家智能空气炸锅3.5 L",
+                    "discription": "无油低脂，健康烹饪新选择",
+                    "price": "299",
+                    "old_price": "399元",
+                    "is_half": false
+                },
+                {
+                    "id": "d1bfcd1d-5e6f-4ecd-ad86-9b64a408eaee",
+                    "img_path": "/images/product/brick_item5_3_3.png",
+                    "name": "米家电烤箱",
+                    "discription": "全能烘焙体验",
+                    "price": "299",
+                    "old_price": "329元",
+                    "is_half": false
+                },
+                {
+                    "id": "4cfc00c8-55bc-494d-80be-be7ac1756804",
+                    "img_path": "/images/product/brick_item5_3_4.png",
+                    "name": "米家智能微烤一体机",
+                    "discription": "能烧烤的微波炉",
+                    "price": "509",
+                    "old_price": "549元",
+                    "is_half": false
+                },
+                {
+                    "id": "1c6bde47-f94b-4a24-8d4a-802b38fd106d",
+                    "img_path": "/images/product/brick_item5_3_5.png",
+                    "name": "米家智能蒸汽小烤箱 12L",
+                    "discription": "智享酥嫩美味",
+                    "price": "249",
+                    "old_price": "299元",
+                    "is_half": false
+                },
+                {
+                    "id": "83716568-a50d-4fe0-9cde-16fbbd4f8f86",
+                    "img_path": "/images/product/brick_item5_3_6.png",
+                    "name": "米家智能嵌入式蒸烤一体机 S1",
+                    "discription": "蒸烤炸一机多能，释放更多厨房空间",
+                    "price": "2999",
+                    "old_price": "3499元",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "6730c32b-964d-4a42-bb63-665e1a2f9fef",
+                            "img_path": "/images/product/brick_item5_3_7.png",
+                            "name": "米家智能空气炸锅Pro 4L",
+                            "price": "329",
+                            "is_half": true
+                        },
+                        {
+                            "id": "46e71611-fbf3-498c-83e5-11dabcdb6a69",
+                            "is_half": true,
+                            "more_of_what": "微蒸烤"
+                        }
+                    ]
+                }
+            ]
+        ],
+        "right_tabs": [
+            {
+                "type": 1,
+                "content": "净水器"
+            },
+            {
+                "type": 1,
+                "content": "烟灶"
+            },
+            {
+                "type": 1,
+                "content": "电饭煲"
+            },
+            {
+                "type": 1,
+                "content": "微蒸烤"
+            }
+        ]
+    },
+    {
+        "banner": [
+            {
+                "name":"Xiaomi Sound",
+                "img_path": "/images/product/banner6_0.png",
+                "id": "ea7da23e-d2b0-44f8-b447-ec715eaa2f99"
+            },
+            {
+                "name":"小米人脸识别智能门锁 X",
+                "img_path": "/images/product/banner6_1.png",
+                "id": "4e5c80eb-a5fc-48a4-acaa-f71279771596"
+            }
+        ],
+        "left_title": "智能家居",
+        "arr": [
+            [
+                {
+                    "id": "c66b92e9-5d59-4e70-b573-a36e965993d6",
+                    "img_path": "/images/product/brick_item6_0_0.png",
+                    "name": "Xiaomi智能家庭屏 10",
+                    "discription": "MIUI Home｜10.1\" 高清大屏｜115°超广角摄像头｜儿童模式｜家庭 KTV｜小爱同学",
+                    "price": "949",
+                    "old_price": "999元",
+                    "is_half": false
+                },
+                {
+                    "id": "540d6ad7-aa8b-4fab-a4a8-d467d46d0ce9",
+                    "img_path": "/images/product/brick_item6_0_1.png",
+                    "name": "小米小爱音箱Play 增强版",
+                    "discription": "LED时钟显示，语音控制传统家电",
+                    "price": "149",
+                    "is_half": false
+                },
+                {
+                    "id": "ea7da23e-d2b0-44f8-b447-ec715eaa2f99",
+                    "img_path": "/images/product/brick_item6_0_2.png",
+                    "name": "Xiaomi Sound",
+                    "discription": "HARMAN工程师专业调音，高保真震撼音质",
+                    "price": "499",
+                    "old_price": "549元",
+                    "is_half": false
+                },
+                {
+                    "id": "a8b41b5b-746f-4049-ad93-ca6e10c3e053",
+                    "img_path": "/images/product/brick_item6_0_3.png",
+                    "name": "小米小爱音箱 Play",
+                    "discription": "听音乐、语音遥控家电",
+                    "price": "99",
+                    "old_price": "109元",
+                    "is_half": false
+                },
+                {
+                    "id": "5aef69d3-444f-4484-ab66-78638ee90d28",
+                    "img_path": "/images/product/brick_item6_0_4.png",
+                    "name": "小米小爱音箱 Pro",
+                    "discription": "澎湃低音，语音遥控传统家电",
+                    "price": "279",
+                    "old_price": "299元",
+                    "is_half": false
+                },
+                {
+                    "id": "50f2300b-1a80-46bf-9f88-5ee869444586",
+                    "img_path": "/images/product/brick_item6_0_5.png",
+                    "name": "小米AI音箱（第二代）",
+                    "discription": "低频饱满有深度，人声清晰有细节",
+                    "price": "179",
+                    "old_price": "199元",
+                    "is_half": false
+                },
+                {
+                    "id": "acc4f0d3-1928-4843-86f8-c1272a67b435",
+                    "img_path": "/images/product/brick_item6_0_6.png",
+                    "name": "小米小爱触屏音箱",
+                    "discription": "可视化智能家居，海量视听资源",
+                    "price": "209",
+                    "old_price": "269元",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "bf239765-6b1f-45a7-98a8-87a16903623b",
+                            "img_path": "/images/product/brick_item6_0_7.png",
+                            "name": "小米小爱音箱",
+                            "price": "229",
+                            "is_half": true
+                        },
+                        {
+                            "id": "3685b4ec-4398-4fee-84a4-2e3bf10fa100",
+                            "is_half": true,
+                            "more_of_what": "小爱音箱"
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "id": "70630bf3-392a-4755-b73d-dbb713a8743c",
+                    "img_path": "/images/product/brick_item6_1_0.png",
+                    "name": "小米智能门锁 1S",
+                    "discription": "3D半导体指纹识别 | 7种开锁方式 | 蓝宝石防刮指纹区 | 18个月超长续航",
+                    "price": "1299",
+                    "is_half": false
+                },
+                {
+                    "id": "91dbe27c-578a-422c-9d4c-35f2c53f5477",
+                    "img_path": "/images/product/brick_item6_1_1.png",
+                    "name": "小米智能门锁 Pro",
+                    "discription": "高清超广角摄像头 | 门口逗留侦测 | 可视化远程对讲 | 电子门铃功能 | 7大开锁方式 | 直插式C级锁芯 | 蓝宝石防刮指纹区 | 丰富智能联动",
+                    "price": "1299",
+                    "old_price": "1599元",
+                    "is_half": false
+                },
+                {
+                    "id": "fad5dd77-c2a4-4443-b72a-86cab706c220",
+                    "img_path": "/images/product/brick_item6_1_2.png",
+                    "name": "小米全自动智能门锁",
+                    "discription": "疾速全自动锁体 | 多维半导体指纹 | 7种开锁方式 | 直插式C级锁芯 | 多场景智能联动",
+                    "price": "1299",
+                    "old_price": "1799元",
+                    "is_half": false
+                },
+                {
+                    "id": "0069933f-cae6-43dd-9a1b-053e425a72da",
+                    "img_path": "/images/product/brick_item6_1_3.png",
+                    "name": "小米全自动智能门锁 Pro",
+                    "discription": "172°高清超广角摄像头 | 智能AI人形侦测录像 | 高端全自动锁体 | 多维半导体指纹",
+                    "price": "1699",
+                    "old_price": "2199元",
+                    "is_half": false
+                },
+                {
+                    "id": "e3419f14-379a-4a98-89e8-5abead7cc604",
+                    "img_path": "/images/product/brick_item6_1_4.png",
+                    "name": "小米智能门锁 E",
+                    "discription": "告别钥匙，畅享便捷生活",
+                    "price": "999",
+                    "is_half": false
+                },
+                {
+                    "id": "4e5c80eb-a5fc-48a4-acaa-f71279771596",
+                    "img_path": "/images/product/brick_item6_1_5.png",
+                    "name": "小米人脸识别智能门锁 X",
+                    "discription": "3D结构光人脸识别 | 直插芯全自动锁体 | 8种开锁方式 | MIoT+Homekit双平台智能控制",
+                    "price": "2599",
+                    "old_price": "3299元",
+                    "is_half": false
+                },
+                {
+                    "id": "539499f1-1fef-4fdd-a487-c086d705e9c4",
+                    "img_path": "/images/product/brick_item6_1_6.png",
+                    "name": "小米智能门锁M20",
+                    "discription": "全面板推拉设计 | 创新设计防夹手 | 疾速全自动锁体 | 直插式C级锁芯 | 7种开锁方式",
+                    "price": "1299",
+                    "old_price": "1899元",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "7d7e01ea-1fec-416d-b144-e35eb96bdd44",
+                            "img_path": "/images/product/brick_item6_1_7.png",
+                            "name": "小米智能猫眼1S",
+                            "price": "599",
+                            "is_half": true
+                        },
+                        {
+                            "id": "ce9e8d1c-d8e6-4469-8e4e-457d10649373",
+                            "is_half": true,
+                            "more_of_what": "门锁门铃"
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "id": "fb41f356-431d-478d-af2b-9a8672d89ca7",
+                    "img_path": "/images/product/brick_item6_2_0.png",
+                    "name": "小米路由器AX3000",
+                    "discription": "小米路由器AX3000 小米手机专属加速，四路独立信号放大器，新一代高通芯片，超稳运行不掉线",
+                    "price": "329",
+                    "old_price": "349元",
+                    "is_half": false
+                },
+                {
+                    "id": "988c338b-8f4a-4a18-a32f-667d7424b52e",
+                    "img_path": "/images/product/brick_item6_2_1.png",
+                    "name": "小米路由器4A千兆版",
+                    "discription": "双核全千兆AC1200路由器",
+                    "price": "129",
+                    "old_price": "139元",
+                    "is_half": false
+                },
+                {
+                    "id": "fb1a9867-43ce-406f-9681-9289868694b9",
+                    "img_path": "/images/product/brick_item6_2_2.png",
+                    "name": "Redmi路由器AX3000",
+                    "discription": "Redmi AX3000 小米手机专属加速，四路独立信号放大器，新一代高通芯片，超稳运行不掉线",
+                    "price": "199",
+                    "old_price": "269元",
+                    "is_half": false
+                },
+                {
+                    "id": "9ea53567-4b7a-4e76-896b-3e4fb5bce713",
+                    "img_path": "/images/product/brick_item6_2_3.png",
+                    "name": "Redmi路由器AX1800",
+                    "discription": "Redmi AX1800，4路信号放大器，小米手机专属加速",
+                    "price": "199",
+                    "old_price": "229元",
+                    "is_half": false
+                },
+                {
+                    "id": "cd8bd9f4-7c57-4da5-9b99-30752eb7bf96",
+                    "img_path": "/images/product/brick_item6_2_4.png",
+                    "name": "Redmi路由器AX6S",
+                    "discription": "Redmi路由器AX6S",
+                    "price": "329",
+                    "is_half": false
+                },
+                {
+                    "id": "6c2ce2c7-f9e5-4252-9970-fcfeae659de7",
+                    "img_path": "/images/product/brick_item6_2_5.png",
+                    "name": "小米路由器4C",
+                    "discription": "300M单频",
+                    "price": "79",
+                    "is_half": false
+                },
+                {
+                    "id": "adc67fd8-a1e8-4898-90a3-ca3ef72c11e8",
+                    "img_path": "/images/product/brick_item6_2_6.png",
+                    "name": "Redmi路由器AC2100",
+                    "discription": "Redmi路由器AC2100，6根高增益全向天线，全千兆网口",
+                    "price": "169",
+                    "old_price": "199元",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "15ababa0-9c2a-47b8-bfe1-c1c88fd14d6d",
+                            "img_path": "/images/product/brick_item6_2_7.png",
+                            "name": "小米路由器AX6000",
+                            "price": "469",
+                            "is_half": true
+                        },
+                        {
+                            "id": "c8b97b87-bd90-4de2-9e8e-312eb9fa9cde",
+                            "is_half": true,
+                            "more_of_what": "路由器"
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "id": "d77fa10e-0b8c-4e8d-a916-473cdb9ca1c8",
+                    "img_path": "/images/product/brick_item6_3_0.png",
+                    "name": "米家空调伴侣2",
+                    "discription": "传统空调轻松智能化",
+                    "price": "69",
+                    "old_price": "79元",
+                    "is_half": false
+                },
+                {
+                    "id": "76775f78-8463-4ff0-8852-2224918883a2",
+                    "img_path": "/images/product/brick_item6_3_1.png",
+                    "name": "小米米家智能开关",
+                    "discription": "不同款式，多种选择",
+                    "price": "59",
+                    "is_half": false
+                },
+                {
+                    "id": "9b900b52-f85e-4c95-9bfd-85401af597b7",
+                    "img_path": "/images/product/brick_item6_3_2.png",
+                    "name": "小米门窗传感器2",
+                    "discription": "开合记录",
+                    "price": "49",
+                    "is_half": false
+                },
+                {
+                    "id": "dbeed0f1-01d9-4038-9e07-6eaf47d7bb5f",
+                    "img_path": "/images/product/brick_item6_3_4.png",
+                    "name": "小米天然气卫士",
+                    "discription": "小米天然气卫士",
+                    "price": "169",
+                    "old_price": "179元",
+                    "is_half": false
+                },
+                {
+                    "id": "568c3287-368b-4617-ab4a-5a1e19d6f5f3",
+                    "img_path": "/images/product/brick_item6_3_5.png",
+                    "name": "小米米家电子温湿度计Pro",
+                    "discription": "知冷暖懂干湿的电子表",
+                    "price": "89",
+                    "old_price": "99元",
+                    "is_half": false
+                },
+                {
+                    "id": "522d99f2-4a6d-4969-97a4-d06dc5c76c48",
+                    "img_path": "/images/product/brick_item6_3_6.png",
+                    "name": "小米智能门锁NFC卡 全球版",
+                    "discription": "贴心门卡 便捷安全",
+                    "price": "49",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "a718830a-b150-4a8e-91be-ea10283a767f",
+                            "is_half": true,
+                            "more_of_what": "智能设备"
+                        }
+                    ]
+                }
+            ]
+        ],
+        "right_tabs": [
+            {
+                "type": 1,
+                "content": "小爱音箱"
+            },
+            {
+                "type": 1,
+                "content": "门锁门铃"
+            },
+            {
+                "type": 1,
+                "content": "路由器"
+            },
+            {
+                "type": 1,
+                "content": "智能设备"
+            }
+        ]
+    },
+    {
+        "banner": [
+            {
+                "name":"九号平衡车",
+                "img_path": "/images/product/banner7_0.png",
+                "id": "3dfff4cb-23b0-4f3e-b028-524b688bdc1e"
+            },
+            {
+                "name":"米家跑步机",
+                "img_path": "/images/product/banner7_1.png",
+                "id": "1480fb26-68e2-4d5b-8317-4f44e8b1bd82"
+            }
+        ],
+        "left_title": "运动出行",
+        "arr": [
+            [
+                {
+                    "id": "3dfff4cb-23b0-4f3e-b028-524b688bdc1e",
+                    "img_path": "/images/product/brick_item7_0_0.png",
+                    "name": "九号平衡车",
+                    "discription": "年轻人的酷玩具",
+                    "price": "1999",
+                    "old_price": "2199元",
+                    "is_half": false
+                },
+                {
+                    "id": "a196c3aa-d626-4d9a-b754-453810ca42ed",
+                    "img_path": "/images/product/brick_item7_0_1.png",
+                    "name": "九号平衡车燃动版",
+                    "discription": "燃动升级，随走随停",
+                    "price": "2399",
+                    "old_price": "2599元",
+                    "is_half": false
+                },
+                {
+                    "id": "7f851cd2-60f8-41ee-8cfc-9328e44ab4a1",
+                    "img_path": "/images/product/brick_item7_0_2.png",
+                    "name": "九号平衡车 Plus",
+                    "discription": "一个形影不离的新伙伴",
+                    "price": "3299",
+                    "old_price": "3499元",
+                    "is_half": false
+                },
+                {
+                    "id": "8e638561-b57e-4fb5-9316-f7189217eeb8",
+                    "img_path": "/images/product/brick_item7_0_3.png",
+                    "name": "米家电动滑板车1S",
+                    "discription": "型出格，行出色",
+                    "price": "1999",
+                    "old_price": "2199元",
+                    "is_half": false
+                },
+                {
+                    "id": "876bafb1-a034-45c5-8353-4535b3246473",
+                    "img_path": "/images/product/brick_item7_0_4.png",
+                    "name": "小米米家电动滑板车Pro",
+                    "discription": "性能提升，动力更强劲",
+                    "price": "2799",
+                    "old_price": "3099元",
+                    "is_half": false
+                },
+                {
+                    "id": "774566bd-6467-4369-9d0d-936355d47210",
+                    "img_path": "/images/product/brick_item7_0_5.png",
+                    "name": "九号卡丁车Pro兰博基尼汽车定制版",
+                    "discription": "九号卡丁车Pro兰博基尼汽车定制版",
+                    "price": "9999",
+                    "is_half": false
+                },
+                {
+                    "id": "cf1ae0c5-40fe-4b45-9fdf-0a174df81a08",
+                    "img_path": "/images/product/brick_item7_0_6.png",
+                    "name": "九号平衡车 改装套件（不含平衡车）",
+                    "discription": "小朋友的大玩具，老顽童的小赛车",
+                    "price": "2799",
+                    "old_price": "2999元",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "984a4b93-a86f-424a-b681-98ba786e193a",
+                            "img_path": "/images/product/brick_item7_0_7.png",
+                            "name": "米家电动滑板车 3 青春版",
+                            "price": "1699",
+                            "is_half": true
+                        },
+                        {
+                            "id": "fa6adddf-3191-4e32-af4e-3f7ab1db8c87",
+                            "is_half": true,
+                            "more_of_what": "平衡车/滑板车"
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "id": "79c4cf46-09c9-4dd1-afac-49013bd27708",
+                    "img_path": "/images/product/brick_item7_1_0.png",
+                    "name": "小米体脂秤2",
+                    "discription": "轻松掌握身体脂肪率",
+                    "price": "99",
+                    "is_half": false
+                },
+                {
+                    "id": "baef4c86-552d-494c-9cf1-e61620e494f9",
+                    "img_path": "/images/product/brick_item7_1_1.png",
+                    "name": "小米体重秤2",
+                    "discription": "起重低至100G 一杯水都能测",
+                    "price": "69",
+                    "is_half": false
+                },
+                {
+                    "id": "84eed985-2449-4861-8928-1a7651af4879",
+                    "img_path": "/images/product/brick_item7_1_2.png",
+                    "name": "米家走步机",
+                    "discription": "不足半平米 走出好身材",
+                    "price": "1499",
+                    "old_price": "1799元",
+                    "is_half": false
+                },
+                {
+                    "id": "1480fb26-68e2-4d5b-8317-4f44e8b1bd82",
+                    "img_path": "/images/product/brick_item7_1_3.png",
+                    "name": "米家跑步机",
+                    "discription": "心率控速、全屋互联",
+                    "price": "2299",
+                    "old_price": "2699元",
+                    "is_half": false
+                },
+                {
+                    "id": "b50c25da-eb41-4c52-88e7-98ad3dc511af",
+                    "img_path": "/images/product/brick_item7_1_4.png",
+                    "name": "米家mini筋膜枪",
+                    "discription": "动力深入肌群，横扫疲劳酸痛",
+                    "price": "329",
+                    "old_price": "399元",
+                    "is_half": false
+                },
+                {
+                    "id": "8565ee90-2267-40da-b107-73bbb27fbd69",
+                    "img_path": "/images/product/brick_item7_1_5.png",
+                    "name": "米家运动心电T恤",
+                    "discription": "米家运动心电T恤",
+                    "price": "249",
+                    "is_half": false
+                },
+                {
+                    "id": "e2da3376-619f-4c5f-a39d-d26ccf06f615",
+                    "img_path": "/images/product/brick_item7_1_6.png",
+                    "name": "米家筋膜枪",
+                    "discription": "米家筋膜枪",
+                    "price": "449",
+                    "old_price": "499元",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "ea82835d-2c4a-4b8c-ade4-449e91ec5f1b",
+                            "img_path": "/images/product/brick_item7_1_7.png",
+                            "name": "米家走步机（扶手版）",
+                            "price": "1399",
+                            "is_half": true
+                        },
+                        {
+                            "id": "b48382f9-00de-4ae3-acaf-8e96bd7bf8b2",
+                            "is_half": true,
+                            "more_of_what": "运动健身"
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "id": "591cadb4-b5bb-4591-a29e-66ef0b0b4362",
+                    "img_path": "/images/product/brick_item7_2_0.png",
+                    "name": "小米旅行箱 20英寸",
+                    "discription": "一款坚固的旅行箱伴您左右",
+                    "price": "299",
+                    "old_price": "349元",
+                    "is_half": false
+                },
+                {
+                    "id": "3993fd3a-3f38-47b7-8de9-226e0134e555",
+                    "img_path": "/images/product/brick_item7_2_1.png",
+                    "name": "小米旅行箱 24英寸",
+                    "discription": "一款坚固的旅行箱伴您左右",
+                    "price": "399",
+                    "old_price": "449元",
+                    "is_half": false
+                },
+                {
+                    "id": "5fcdfbff-937a-425f-a43b-f84db679e5ce",
+                    "img_path": "/images/product/brick_item7_2_2.png",
+                    "name": "小米金属旅行箱 2",
+                    "discription": "精湛工艺，体面出行",
+                    "price": "899",
+                    "old_price": "999元",
+                    "is_half": false
+                },
+                {
+                    "id": "2714d998-e773-4c58-a71a-90dd575fea15",
+                    "img_path": "/images/product/brick_item7_2_3.png",
+                    "name": "小米旅行箱 青春款 系列",
+                    "discription": "环保材料，轻便重量",
+                    "price": "199",
+                    "is_half": false
+                },
+                {
+                    "id": "22fec19b-3102-4080-bc82-9f9e9994a7ed",
+                    "img_path": "/images/product/brick_item7_2_4.png",
+                    "name": "小米轻商务旅行箱 20英寸",
+                    "discription": "取物，从未如此简单",
+                    "price": "399",
+                    "is_half": false
+                },
+                {
+                    "id": "5b5d5316-834c-4edc-8173-940365ee06ed",
+                    "img_path": "/images/product/brick_item7_2_5.png",
+                    "name": "小米极简都市双肩包 2",
+                    "discription": "简约挺括，彰显年轻活力",
+                    "price": "129",
+                    "old_price": "149元",
+                    "is_half": false
+                },
+                {
+                    "id": "c723144a-d136-4b11-86c3-6191b7a768e4",
+                    "img_path": "/images/product/brick_item7_2_6.png",
+                    "name": "小米经典商务双肩包 2",
+                    "discription": "实用商务时尚范 经典设计 空间利用率高",
+                    "price": "79",
+                    "old_price": "99元",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "ed98578b-c06a-4b41-9d38-77978b298b6b",
+                            "img_path": "/images/product/brick_item7_2_7.png",
+                            "name": "小米小背包",
+                            "price": "39",
+                            "is_half": true
+                        },
+                        {
+                            "id": "0893ae91-e924-45c3-a32c-1f9c2502b0c1",
+                            "is_half": true,
+                            "more_of_what": "箱包配饰"
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "id": "042d3196-b3cd-4dd1-be39-30cc4e4c8cf4",
+                    "img_path": "/images/product/brick_item7_3_0.png",
+                    "name": "米家充气宝1S",
+                    "discription": "米家充气宝1S",
+                    "price": "199",
+                    "is_half": false
+                },
+                {
+                    "id": "ee5dcfad-cd63-4def-a8b7-0aa707cf1cd3",
+                    "img_path": "/images/product/brick_item7_3_1.png",
+                    "name": "小米记录仪2 2K版",
+                    "discription": "超清画质",
+                    "price": "479",
+                    "is_half": false
+                },
+                {
+                    "id": "2c5f5103-12c6-450e-99d6-b5e8b6353b18",
+                    "img_path": "/images/product/brick_item7_3_2.png",
+                    "name": "小米对讲机2",
+                    "discription": "向更远出发",
+                    "price": "429",
+                    "old_price": "449元",
+                    "is_half": false
+                },
+                {
+                    "id": "18d1365d-9891-4aa3-ad27-29d9ac913595",
+                    "img_path": "/images/product/brick_item7_3_3.png",
+                    "name": "小米对讲机1S",
+                    "discription": "再次出发，陪你轻聊一路",
+                    "price": "249",
+                    "is_half": false
+                },
+                {
+                    "id": "fff30354-8d36-4d8c-a1b0-60270a47afdd",
+                    "img_path": "/images/product/brick_item7_3_4.png",
+                    "name": "米家智能激光测距仪",
+                    "discription": "一键测量，操作一目了然",
+                    "price": "169",
+                    "old_price": "199元",
+                    "is_half": false
+                },
+                {
+                    "id": "ce9faef4-dfd8-4127-a73a-76690ccfc430",
+                    "img_path": "/images/product/brick_item7_3_5.png",
+                    "name": "米家电动精修螺丝刀",
+                    "discription": "米家电动精修螺丝刀",
+                    "price": "149",
+                    "old_price": "169元",
+                    "is_half": false
+                },
+                {
+                    "id": "532ef506-a124-45da-8237-aebdba9aec62",
+                    "img_path": "/images/product/brick_item7_3_6.png",
+                    "name": "米家电动螺丝刀",
+                    "discription": "专利一体化无绳设计，轻松开工",
+                    "price": "169",
+                    "old_price": "199元",
+                    "is_half": false
+                },
+                {
+                    "halfs": [
+                        {
+                            "id": "3363bcf0-9d71-4aee-b5c9-ef746c8c8198",
+                            "is_half": true,
+                            "more_of_what": "出行工具"
+                        }
+                    ]
+                }
+            ]
+        ],
+        "right_tabs": [
+            {
+                "type": 1,
+                "content": "平衡车/滑板车"
+            },
+            {
+                "type": 1,
+                "content": "运动健身"
+            },
+            {
+                "type": 1,
+                "content": "箱包配饰"
+            },
+            {
+                "type": 1,
+                "content": "出行工具"
+            }
+        ]
+    }
+]

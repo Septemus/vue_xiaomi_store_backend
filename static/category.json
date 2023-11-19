@@ -1,0 +1,862 @@
+[
+    {
+        "title": "手机",
+        "array": [
+            {
+                "id": "category0_0",
+                "img_src": "/images/category/category0_0.png",
+                "name": "Xiaomi MIX系列"
+            },
+            {
+                "id": "category0_1",
+                "img_src": "/images/category/category0_1.png",
+                "name": "Xiaomi 数字系列"
+            },
+            {
+                "id": "category0_2",
+                "img_src": "/images/category/category0_2.png",
+                "name": "Xiaomi Civi系列"
+            },
+            {
+                "id": "category0_3",
+                "img_src": "/images/category/category0_3.png",
+                "name": "Redmi K系列"
+            },
+            {
+                "id": "category0_4",
+                "img_src": "/images/category/category0_4.png",
+                "name": "Redmi Note系列"
+            },
+            {
+                "id": "category0_5",
+                "img_src": "/images/category/category0_5.png",
+                "name": "Redmi 数字系列"
+            }
+        ]
+    },
+    {
+        "title": "电视",
+        "array": [
+            {
+                "id": "category1_0",
+                "img_src": "/images/category/category1_0.png",
+                "name": "小米电视EA系列"
+            },
+            {
+                "id": "category1_1",
+                "img_src": "/images/category/category1_1.png",
+                "name": "小米电视 S系列"
+            },
+            {
+                "id": "category1_2",
+                "img_src": "/images/category/category1_2.png",
+                "name": "Redmi电视 X系列"
+            },
+            {
+                "id": "category1_3",
+                "img_src": "/images/category/category1_3.png",
+                "name": "Redmi电视 MAX系列"
+            },
+            {
+                "id": "category1_4",
+                "img_src": "/images/category/category1_4.png",
+                "name": "小米电视 A系列"
+            },
+            {
+                "id": "category1_5",
+                "img_src": "/images/category/category1_5.png",
+                "name": "小米电视 大师系列"
+            }
+        ]
+    },
+    {
+        "title": "家电",
+        "array": [
+            {
+                "id": "category2_0",
+                "img_src": "/images/category/category2_0.png",
+                "name": "壁挂空调"
+            },
+            {
+                "id": "category2_1",
+                "img_src": "/images/category/category2_1.png",
+                "name": "立式空调"
+            },
+            {
+                "id": "category2_2",
+                "img_src": "/images/category/category2_2.png",
+                "name": "冰箱"
+            },
+            {
+                "id": "category2_3",
+                "img_src": "/images/category/category2_3.png",
+                "name": "滚筒洗衣机"
+            },
+            {
+                "id": "category2_4",
+                "img_src": "/images/category/category2_4.png",
+                "name": "波轮洗衣机"
+            },
+            {
+                "id": "category2_5",
+                "img_src": "/images/category/category2_5.png",
+                "name": "米家石墨烯折叠踢脚线电暖器 超薄版"
+            },
+            {
+                "id": "category2_6",
+                "img_src": "/images/category/category2_6.png",
+                "name": "米家石墨烯踢脚线电暖器 仿真火焰版"
+            },
+            {
+                "id": "category2_7",
+                "img_src": "/images/category/category2_7.png",
+                "name": "电暖器"
+            },
+            {
+                "id": "category2_8",
+                "img_src": "/images/category/category2_8.png",
+                "name": "净水器"
+            },
+            {
+                "id": "category2_9",
+                "img_src": "/images/category/category2_9.png",
+                "name": "微蒸烤"
+            },
+            {
+                "id": "category2_10",
+                "img_src": "/images/category/category2_10.png",
+                "name": "烟灶"
+            },
+            {
+                "id": "category2_11",
+                "img_src": "/images/category/category2_11.png",
+                "name": "洗碗机"
+            },
+            {
+                "id": "category2_12",
+                "img_src": "/images/category/category2_12.png",
+                "name": "扫地机器人"
+            },
+            {
+                "id": "category2_13",
+                "img_src": "/images/category/category2_13.png",
+                "name": "吸尘器"
+            },
+            {
+                "id": "category2_14",
+                "img_src": "/images/category/category2_14.png",
+                "name": "空气净化器"
+            },
+            {
+                "id": "category2_15",
+                "img_src": "/images/category/category2_15.png",
+                "name": "电饭煲"
+            },
+            {
+                "id": "category2_16",
+                "img_src": "/images/category/category2_16.png",
+                "name": "电磁炉"
+            },
+            {
+                "id": "category2_17",
+                "img_src": "/images/category/category2_17.png",
+                "name": "水壶"
+            },
+            {
+                "id": "category2_18",
+                "img_src": "/images/category/category2_18.png",
+                "name": "落地风扇"
+            },
+            {
+                "id": "category2_19",
+                "img_src": "/images/category/category2_19.png",
+                "name": "投影仪"
+            },
+            {
+                "id": "category2_20",
+                "img_src": "/images/category/category2_20.png",
+                "name": "灯具"
+            },
+            {
+                "id": "category2_21",
+                "img_src": "/images/category/category2_21.png",
+                "name": "插线板"
+            },
+            {
+                "id": "category2_22",
+                "img_src": "/images/category/category2_22.png",
+                "name": "新风机"
+            },
+            {
+                "id": "category2_23",
+                "img_src": "/images/category/category2_23.png",
+                "name": "料理机"
+            }
+        ]
+    },
+    {
+        "title": "笔记本 平板",
+        "array": [
+            {
+                "id": "category3_0",
+                "img_src": "/images/category/category3_0.png",
+                "name": "Xiaomi Pad 6 Max 14"
+            },
+            {
+                "id": "category3_1",
+                "img_src": "/images/category/category3_1.png",
+                "name": "Xiaomi Pad 6 Pro"
+            },
+            {
+                "id": "category3_2",
+                "img_src": "/images/category/category3_2.png",
+                "name": "Xiaomi Pad 6"
+            },
+            {
+                "id": "category3_3",
+                "img_src": "/images/category/category3_3.png",
+                "name": "Redmi Pad"
+            },
+            {
+                "id": "category3_4",
+                "img_src": "/images/category/category3_4.png",
+                "name": "小米平板5 Pro 5G"
+            },
+            {
+                "id": "category3_5",
+                "img_src": "/images/category/category3_5.png",
+                "name": "小米平板5 Pro 12.4"
+            },
+            {
+                "id": "category3_6",
+                "img_src": "/images/category/category3_6.png",
+                "name": "小米平板5 Pro"
+            },
+            {
+                "id": "category3_7",
+                "img_src": "/images/category/category3_7.png",
+                "name": "小米平板5"
+            },
+            {
+                "id": "category3_8",
+                "img_src": "/images/category/category3_8.png",
+                "name": "办公显示器"
+            },
+            {
+                "id": "category3_9",
+                "img_src": "/images/category/category3_9.png",
+                "name": "电竞显示器"
+            },
+            {
+                "id": "category3_10",
+                "img_src": "/images/category/category3_10.png",
+                "name": "RedmiBook Pro 15 锐龙"
+            },
+            {
+                "id": "category3_11",
+                "img_src": "/images/category/category3_11.png",
+                "name": "Redmi Book 14"
+            },
+            {
+                "id": "category3_12",
+                "img_src": "/images/category/category3_12.png",
+                "name": "XiaomiBook12.4二合一套装"
+            },
+            {
+                "id": "category3_13",
+                "img_src": "/images/category/category3_13.png",
+                "name": "Redmi Book 15E"
+            },
+            {
+                "id": "category3_14",
+                "img_src": "/images/category/category3_14.png",
+                "name": "Redmi G 游戏本 锐龙版"
+            },
+            {
+                "id": "category3_15",
+                "img_src": "/images/category/category3_15.png",
+                "name": "Redmi G 游戏本 2022"
+            },
+            {
+                "id": "category3_16",
+                "img_src": "/images/category/category3_16.png",
+                "name": "RedmiBook Pro15 2022"
+            },
+            {
+                "id": "category3_17",
+                "img_src": "/images/category/category3_17.png",
+                "name": "Xiaomi Book Pro 16"
+            },
+            {
+                "id": "category3_18",
+                "img_src": "/images/category/category3_18.png",
+                "name": "Xiaomi Book Pro 14"
+            },
+            {
+                "id": "category3_19",
+                "img_src": "/images/category/category3_19.png",
+                "name": "小米笔记本 Pro X 14"
+            },
+            {
+                "id": "category3_20",
+                "img_src": "/images/category/category3_20.png",
+                "name": "小米笔记本 Pro X 15"
+            },
+            {
+                "id": "category3_21",
+                "img_src": "/images/category/category3_21.png",
+                "name": "RedmiBook Pro 14 锐龙版"
+            }
+        ]
+    },
+    {
+        "title": "出行 穿戴",
+        "array": [
+            {
+                "id": "category4_0",
+                "img_src": "/images/category/category4_0.png",
+                "name": "CyberDog 2 仿生四足机器人"
+            },
+            {
+                "id": "category4_1",
+                "img_src": "/images/category/category4_1.png",
+                "name": "小米手环 8 Pro"
+            },
+            {
+                "id": "category4_2",
+                "img_src": "/images/category/category4_2.png",
+                "name": "Redmi Watch 3 青春版"
+            },
+            {
+                "id": "category4_3",
+                "img_src": "/images/category/category4_3.png",
+                "name": "小米手环8"
+            },
+            {
+                "id": "category4_4",
+                "img_src": "/images/category/category4_4.png",
+                "name": "小米手环8 NFC版"
+            },
+            {
+                "id": "category4_5",
+                "img_src": "/images/category/category4_5.png",
+                "name": "Xiaomi Watch S2"
+            },
+            {
+                "id": "category4_6",
+                "img_src": "/images/category/category4_6.png",
+                "name": "Xiaomi Watch S1 Pro"
+            },
+            {
+                "id": "category4_7",
+                "img_src": "/images/category/category4_7.png",
+                "name": "Redmi Watch 3"
+            },
+            {
+                "id": "category4_8",
+                "img_src": "/images/category/category4_8.png",
+                "name": "Redmi 手环 2"
+            },
+            {
+                "id": "category4_9",
+                "img_src": "/images/category/category4_9.png",
+                "name": "小米手环7 Pro"
+            },
+            {
+                "id": "category4_10",
+                "img_src": "/images/category/category4_10.png",
+                "name": "小米手环7 NFC版"
+            },
+            {
+                "id": "category4_11",
+                "img_src": "/images/category/category4_11.png",
+                "name": "Xiaomi Watch S1"
+            },
+            {
+                "id": "category4_12",
+                "img_src": "/images/category/category4_12.png",
+                "name": "九号平衡车"
+            },
+            {
+                "id": "category4_13",
+                "img_src": "/images/category/category4_13.png",
+                "name": "九号平衡车 Plus"
+            },
+            {
+                "id": "category4_14",
+                "img_src": "/images/category/category4_14.png",
+                "name": "九号平衡车燃动版"
+            },
+            {
+                "id": "category4_15",
+                "img_src": "/images/category/category4_15.png",
+                "name": "米家电动滑板车1S"
+            },
+            {
+                "id": "category4_16",
+                "img_src": "/images/category/category4_16.png",
+                "name": "米家电动滑板车 3 青春版"
+            },
+            {
+                "id": "category4_17",
+                "img_src": "/images/category/category4_17.png",
+                "name": "九号ninebot儿童山地自行车"
+            },
+            {
+                "id": "category4_18",
+                "img_src": "/images/category/category4_18.png",
+                "name": "HIMO Z20 折叠电动助力自行车"
+            },
+            {
+                "id": "category4_19",
+                "img_src": "/images/category/category4_19.png",
+                "name": "九号平衡车 改装套件"
+            },
+            {
+                "id": "category4_20",
+                "img_src": "/images/category/category4_20.png",
+                "name": "九号卡丁车Pro兰博基尼汽车定制版"
+            },
+            {
+                "id": "category4_21",
+                "img_src": "/images/category/category4_21.png",
+                "name": "小米车载充电器快充版"
+            },
+            {
+                "id": "category4_22",
+                "img_src": "/images/category/category4_22.png",
+                "name": "小米车载充电器快充版1A1C 100W"
+            },
+            {
+                "id": "category4_23",
+                "img_src": "/images/category/category4_23.png",
+                "name": "小米无线车充"
+            }
+        ]
+    },
+    {
+        "title": "耳机 音箱",
+        "array": [
+            {
+                "id": "category5_0",
+                "img_src": "/images/category/category5_0.png",
+                "name": "Redmi Buds 4活力版"
+            },
+            {
+                "id": "category5_1",
+                "img_src": "/images/category/category5_1.png",
+                "name": "Xiaomi真无线降噪耳机3 迪士尼款"
+            },
+            {
+                "id": "category5_2",
+                "img_src": "/images/category/category5_2.png",
+                "name": "Redmi Buds 4 哈利·波特版"
+            },
+            {
+                "id": "category5_3",
+                "img_src": "/images/category/category5_3.png",
+                "name": "Xiaomi真无线降噪耳机3 星战定制款"
+            },
+            {
+                "id": "category5_4",
+                "img_src": "/images/category/category5_4.png",
+                "name": "Xiaomi Buds 4"
+            },
+            {
+                "id": "category5_5",
+                "img_src": "/images/category/category5_5.png",
+                "name": "Redmi Buds 4青春版"
+            },
+            {
+                "id": "category5_6",
+                "img_src": "/images/category/category5_6.png",
+                "name": "Xiaomi Buds 4 Pro"
+            },
+            {
+                "id": "category5_7",
+                "img_src": "/images/category/category5_7.png",
+                "name": "Redmi Buds 4 Pro"
+            },
+            {
+                "id": "category5_8",
+                "img_src": "/images/category/category5_8.png",
+                "name": "骨传导耳机"
+            },
+            {
+                "id": "category5_9",
+                "img_src": "/images/category/category5_9.png",
+                "name": "Redmi Buds 4"
+            },
+            {
+                "id": "category5_10",
+                "img_src": "/images/category/category5_10.png",
+                "name": "Xiaomi 真无线降噪耳机 3 Pro"
+            },
+            {
+                "id": "category5_11",
+                "img_src": "/images/category/category5_11.png",
+                "name": "Xiaomi 真无线降噪耳机 3"
+            },
+            {
+                "id": "category5_12",
+                "img_src": "/images/category/category5_12.png",
+                "name": "Redmi Buds 3"
+            },
+            {
+                "id": "category5_13",
+                "img_src": "/images/category/category5_13.png",
+                "name": "Air2 SE"
+            },
+            {
+                "id": "category5_14",
+                "img_src": "/images/category/category5_14.png",
+                "name": "小米圈铁耳机Pro"
+            },
+            {
+                "id": "category5_15",
+                "img_src": "/images/category/category5_15.png",
+                "name": "Necklace"
+            },
+            {
+                "id": "category5_16",
+                "img_src": "/images/category/category5_16.png",
+                "name": "小米活塞耳机"
+            },
+            {
+                "id": "category5_17",
+                "img_src": "/images/category/category5_17.png",
+                "name": "小米小爱音箱 Play"
+            },
+            {
+                "id": "category5_18",
+                "img_src": "/images/category/category5_18.png",
+                "name": "小米小爱触屏音箱Pro 8"
+            },
+            {
+                "id": "category5_19",
+                "img_src": "/images/category/category5_19.png",
+                "name": "Xiaomi智能家庭屏 6"
+            },
+            {
+                "id": "category5_20",
+                "img_src": "/images/category/category5_20.png",
+                "name": "Xiaomi Sound Move"
+            },
+            {
+                "id": "category5_21",
+                "img_src": "/images/category/category5_21.png",
+                "name": "Xiaomi Sound"
+            },
+            {
+                "id": "category5_22",
+                "img_src": "/images/category/category5_22.png",
+                "name": "Xiaomi智能家庭屏 10"
+            },
+            {
+                "id": "category5_23",
+                "img_src": "/images/category/category5_23.png",
+                "name": " Xiaomi智能家庭屏Pro 8"
+            }
+        ]
+    },
+    {
+        "title": "健康 儿童",
+        "array": [
+            {
+                "id": "category6_0",
+                "img_src": "/images/category/category6_0.png",
+                "name": "洗手机"
+            },
+            {
+                "id": "category6_1",
+                "img_src": "/images/category/category6_1.png",
+                "name": "剃须刀"
+            },
+            {
+                "id": "category6_2",
+                "img_src": "/images/category/category6_2.png",
+                "name": "修剪器"
+            },
+            {
+                "id": "category6_3",
+                "img_src": "/images/category/category6_3.png",
+                "name": "牙刷"
+            },
+            {
+                "id": "category6_4",
+                "img_src": "/images/category/category6_4.png",
+                "name": "吹风机"
+            },
+            {
+                "id": "category6_5",
+                "img_src": "/images/category/category6_5.png",
+                "name": "体重秤"
+            },
+            {
+                "id": "category6_6",
+                "img_src": "/images/category/category6_6.png",
+                "name": "体脂秤"
+            },
+            {
+                "id": "category6_7",
+                "img_src": "/images/category/category6_7.png",
+                "name": "米家跑步机"
+            },
+            {
+                "id": "category6_8",
+                "img_src": "/images/category/category6_8.png",
+                "name": "米家动感单车"
+            },
+            {
+                "id": "category6_9",
+                "img_src": "/images/category/category6_9.png",
+                "name": "米家mini筋膜枪"
+            },
+            {
+                "id": "category6_10",
+                "img_src": "/images/category/category6_10.png",
+                "name": "走步机"
+            },
+            {
+                "id": "category6_11",
+                "img_src": "/images/category/category6_11.png",
+                "name": "益智积木"
+            },
+            {
+                "id": "category6_12",
+                "img_src": "/images/category/category6_12.png",
+                "name": "儿童手表"
+            },
+            {
+                "id": "category6_13",
+                "img_src": "/images/category/category6_13.png",
+                "name": "儿童滑板车"
+            },
+            {
+                "id": "category6_14",
+                "img_src": "/images/category/category6_14.png",
+                "name": "婴儿推车"
+            },
+            {
+                "id": "category6_15",
+                "img_src": "/images/category/category6_15.png",
+                "name": "理发器"
+            }
+        ]
+    },
+    {
+        "title": "生活 箱包",
+        "array": [
+            {
+                "id": "category7_0",
+                "img_src": "/images/category/category7_0.png",
+                "name": "小背包"
+            },
+            {
+                "id": "category7_1",
+                "img_src": "/images/category/category7_1.png",
+                "name": "双肩包"
+            },
+            {
+                "id": "category7_2",
+                "img_src": "/images/category/category7_2.png",
+                "name": "胸包"
+            },
+            {
+                "id": "category7_3",
+                "img_src": "/images/category/category7_3.png",
+                "name": "旅行箱"
+            },
+            {
+                "id": "category7_4",
+                "img_src": "/images/category/category7_4.png",
+                "name": "收纳袋"
+            },
+            {
+                "id": "category7_5",
+                "img_src": "/images/category/category7_5.png",
+                "name": "运动鞋"
+            },
+            {
+                "id": "category7_6",
+                "img_src": "/images/category/category7_6.png",
+                "name": "服饰"
+            },
+            {
+                "id": "category7_7",
+                "img_src": "/images/category/category7_7.png",
+                "name": "眼镜"
+            },
+            {
+                "id": "category7_8",
+                "img_src": "/images/category/category7_8.png",
+                "name": "床垫"
+            },
+            {
+                "id": "category7_9",
+                "img_src": "/images/category/category7_9.png",
+                "name": "枕头"
+            },
+            {
+                "id": "category7_10",
+                "img_src": "/images/category/category7_10.png",
+                "name": "螺丝刀"
+            },
+            {
+                "id": "category7_11",
+                "img_src": "/images/category/category7_11.png",
+                "name": "水杯"
+            },
+            {
+                "id": "category7_12",
+                "img_src": "/images/category/category7_12.png",
+                "name": "伞"
+            },
+            {
+                "id": "category7_13",
+                "img_src": "/images/category/category7_13.png",
+                "name": "驱蚊器"
+            },
+            {
+                "id": "category7_14",
+                "img_src": "/images/category/category7_14.png",
+                "name": "毛巾/浴巾"
+            },
+            {
+                "id": "category7_15",
+                "img_src": "/images/category/category7_15.png",
+                "name": "笔"
+            }
+        ]
+    },
+    {
+        "title": "智能 路由器",
+        "array": [
+            {
+                "id": "category8_0",
+                "img_src": "/images/category/category8_0.png",
+                "name": "CyberDog"
+            },
+            {
+                "id": "category8_1",
+                "img_src": "/images/category/category8_1.png",
+                "name": "MIJIA K歌麦克风"
+            },
+            {
+                "id": "category8_2",
+                "img_src": "/images/category/category8_2.png",
+                "name": "打印机"
+            },
+            {
+                "id": "category8_3",
+                "img_src": "/images/category/category8_3.png",
+                "name": "小米路由器"
+            },
+            {
+                "id": "category8_4",
+                "img_src": "/images/category/category8_4.png",
+                "name": "Redmi路由器"
+            },
+            {
+                "id": "category8_5",
+                "img_src": "/images/category/category8_5.png",
+                "name": "智能家庭"
+            },
+            {
+                "id": "category8_6",
+                "img_src": "/images/category/category8_6.png",
+                "name": "对讲机"
+            },
+            {
+                "id": "category8_7",
+                "img_src": "/images/category/category8_7.png",
+                "name": "摄像机"
+            },
+            {
+                "id": "category8_8",
+                "img_src": "/images/category/category8_8.png",
+                "name": "智能门锁"
+            },
+            {
+                "id": "category8_9",
+                "img_src": "/images/category/category8_9.png",
+                "name": "门铃/猫眼"
+            },
+            {
+                "id": "category8_10",
+                "img_src": "/images/category/category8_10.png",
+                "name": "小爱音箱"
+            },
+            {
+                "id": "category8_11",
+                "img_src": "/images/category/category8_11.png",
+                "name": "家庭屏"
+            }
+        ]
+    },
+    {
+        "title": "电源 配件",
+        "array": [
+            {
+                "id": "category9_0",
+                "img_src": "/images/category/category9_0.png",
+                "name": "插座插排"
+            },
+            {
+                "id": "category9_1",
+                "img_src": "/images/category/category9_1.png",
+                "name": "移动电源"
+            },
+            {
+                "id": "category9_2",
+                "img_src": "/images/category/category9_2.png",
+                "name": "数据线"
+            },
+            {
+                "id": "category9_3",
+                "img_src": "/images/category/category9_3.png",
+                "name": "平板配件"
+            },
+            {
+                "id": "category9_4",
+                "img_src": "/images/category/category9_4.png",
+                "name": "充电器"
+            },
+            {
+                "id": "category9_5",
+                "img_src": "/images/category/category9_5.png",
+                "name": "电池"
+            },
+            {
+                "id": "category9_6",
+                "img_src": "/images/category/category9_6.png",
+                "name": "自拍杆"
+            },
+            {
+                "id": "category9_7",
+                "img_src": "/images/category/category9_7.png",
+                "name": "手机壳"
+            },
+            {
+                "id": "category9_8",
+                "img_src": "/images/category/category9_8.png",
+                "name": "手机贴膜"
+            },
+            {
+                "id": "category9_9",
+                "img_src": "/images/category/category9_9.png",
+                "name": "无线充电器"
+            },
+            {
+                "id": "category9_10",
+                "img_src": "/images/category/category9_10.png",
+                "name": "黑鲨配件"
+            },
+            {
+                "id": "category9_11",
+                "img_src": "/images/category/category9_11.png",
+                "name": "其他配件"
+            }
+        ]
+    }
+]
