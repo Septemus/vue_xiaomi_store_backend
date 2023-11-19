@@ -7,7 +7,7 @@
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!50503 SET NAMES utf8mb4 */;
+/*!50503 SET NAMES utf8 */;
 /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
 /*!40103 SET TIME_ZONE='+00:00' */;
 /*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
@@ -21,13 +21,13 @@
 
 DROP TABLE IF EXISTS `action_choices`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!50503 SET character_set_client = utf8mb4 */;
+/*!50503 SET character_set_client = utf8 */;
 CREATE TABLE `action_choices` (
-  `action_id` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `cid` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `action_id` varchar(200) COLLATE utf8_unicode_ci NOT NULL,
+  `cid` varchar(200) COLLATE utf8_unicode_ci NOT NULL,
   KEY `cid` (`cid`),
   CONSTRAINT `action_choices_ibfk_1` FOREIGN KEY (`cid`) REFERENCES `choices` (`cid`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -46,16 +46,16 @@ UNLOCK TABLES;
 
 DROP TABLE IF EXISTS `cart`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!50503 SET character_set_client = utf8mb4 */;
+/*!50503 SET character_set_client = utf8 */;
 CREATE TABLE `cart` (
-  `cart_id` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `uid` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `pid` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `cart_id` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `uid` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `pid` varchar(200) COLLATE utf8_unicode_ci NOT NULL,
   `quantity` int NOT NULL DEFAULT '1',
-  `cart_full_name` varchar(300) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
-  `myhash` varchar(150) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `cart_full_name` varchar(300) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `myhash` varchar(150) COLLATE utf8_unicode_ci DEFAULT NULL,
   PRIMARY KEY (`cart_id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -73,16 +73,16 @@ UNLOCK TABLES;
 
 DROP TABLE IF EXISTS `choices`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!50503 SET character_set_client = utf8mb4 */;
+/*!50503 SET character_set_client = utf8 */;
 CREATE TABLE `choices` (
-  `choice_name` varchar(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `cid` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `choice_name` varchar(100) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL,
+  `cid` varchar(200) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL,
   `price` double NOT NULL,
   `old_price` double DEFAULT NULL,
-  `oid` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `oid` varchar(200) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL,
   PRIMARY KEY (`cid`),
   KEY `oid` (`oid`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -101,17 +101,17 @@ UNLOCK TABLES;
 
 DROP TABLE IF EXISTS `collection`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!50503 SET character_set_client = utf8mb4 */;
+/*!50503 SET character_set_client = utf8 */;
 CREATE TABLE `collection` (
-  `collection_id` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `uid` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `pid` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `collection_id` varchar(200) COLLATE utf8_unicode_ci NOT NULL,
+  `uid` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `pid` varchar(200) COLLATE utf8_unicode_ci NOT NULL,
   PRIMARY KEY (`collection_id`),
   KEY `uid` (`uid`),
   KEY `pid` (`pid`),
   CONSTRAINT `collection_ibfk_1` FOREIGN KEY (`uid`) REFERENCES `users` (`uid`) ON DELETE CASCADE ON UPDATE CASCADE,
   CONSTRAINT `collection_ibfk_2` FOREIGN KEY (`pid`) REFERENCES `pages` (`pid`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -130,13 +130,13 @@ UNLOCK TABLES;
 
 DROP TABLE IF EXISTS `images`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!50503 SET character_set_client = utf8mb4 */;
+/*!50503 SET character_set_client = utf8 */;
 CREATE TABLE `images` (
-  `img_path` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `pid` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `img_path` varchar(200) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL,
+  `pid` varchar(200) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL,
   PRIMARY KEY (`img_path`),
   KEY `pid` (`pid`)
-) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -155,19 +155,19 @@ UNLOCK TABLES;
 
 DROP TABLE IF EXISTS `myorder`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!50503 SET character_set_client = utf8mb4 */;
+/*!50503 SET character_set_client = utf8 */;
 CREATE TABLE `myorder` (
-  `order_id` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `order_id` varchar(200) COLLATE utf8_unicode_ci NOT NULL,
   `order_time` datetime DEFAULT NULL,
   `order_overhead` decimal(10,0) NOT NULL,
-  `order_client` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `phonenum` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
-  `addr` varchar(500) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
-  `order_client_realname` varchar(150) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `order_client` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `phonenum` varchar(100) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `addr` varchar(500) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `order_client_realname` varchar(150) COLLATE utf8_unicode_ci DEFAULT NULL,
   PRIMARY KEY (`order_id`),
   KEY `order_client` (`order_client`),
   CONSTRAINT `myorder_ibfk_1` FOREIGN KEY (`order_client`) REFERENCES `users` (`uid`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -186,19 +186,19 @@ UNLOCK TABLES;
 
 DROP TABLE IF EXISTS `myorder_detail`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!50503 SET character_set_client = utf8mb4 */;
+/*!50503 SET character_set_client = utf8 */;
 CREATE TABLE `myorder_detail` (
-  `order_id` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `uid` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `pid` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `order_id` varchar(200) COLLATE utf8_unicode_ci NOT NULL,
+  `uid` varchar(200) COLLATE utf8_unicode_ci NOT NULL,
+  `pid` varchar(200) COLLATE utf8_unicode_ci NOT NULL,
   `quantity` int NOT NULL,
-  `action_id` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `order_full_name` varchar(300) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `action_id` varchar(200) COLLATE utf8_unicode_ci NOT NULL,
+  `order_full_name` varchar(300) COLLATE utf8_unicode_ci DEFAULT NULL,
   `price` decimal(10,0) DEFAULT NULL,
   PRIMARY KEY (`action_id`),
   KEY `order_id` (`order_id`),
   CONSTRAINT `myorder_detail_ibfk_1` FOREIGN KEY (`order_id`) REFERENCES `myorder` (`order_id`) ON DELETE CASCADE ON UPDATE CASCADE
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -217,14 +217,14 @@ UNLOCK TABLES;
 
 DROP TABLE IF EXISTS `options`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!50503 SET character_set_client = utf8mb4 */;
+/*!50503 SET character_set_client = utf8 */;
 CREATE TABLE `options` (
-  `oid` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `pid` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `option_name` varchar(30) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `oid` varchar(200) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL,
+  `pid` varchar(200) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL,
+  `option_name` varchar(30) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL,
   PRIMARY KEY (`oid`),
   KEY `pid` (`pid`)
-) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -243,16 +243,16 @@ UNLOCK TABLES;
 
 DROP TABLE IF EXISTS `pages`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!50503 SET character_set_client = utf8mb4 */;
+/*!50503 SET character_set_client = utf8 */;
 CREATE TABLE `pages` (
-  `pid` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
-  `description` varchar(300) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `pid` varchar(200) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL,
+  `description` varchar(300) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL,
   `min_price` double NOT NULL,
   `min_old_price` double DEFAULT NULL,
-  `pname` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
-  `desc_pre` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `pname` varchar(100) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `desc_pre` varchar(100) COLLATE utf8_unicode_ci DEFAULT NULL,
   PRIMARY KEY (`pid`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -271,18 +271,18 @@ UNLOCK TABLES;
 
 DROP TABLE IF EXISTS `users`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!50503 SET character_set_client = utf8mb4 */;
+/*!50503 SET character_set_client = utf8 */;
 CREATE TABLE `users` (
-  `uid` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `uname` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
-  `password` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `default_addr` varchar(200) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
-  `default_phone` varchar(60) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
-  `gender` enum('male','female','nosay') COLLATE utf8mb4_unicode_ci DEFAULT NULL,
-  `avatar_path` varchar(200) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
-  `realname` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `uid` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `uname` varchar(100) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `password` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `default_addr` varchar(200) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `default_phone` varchar(60) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `gender` enum('male','female','nosay') COLLATE utf8_unicode_ci DEFAULT NULL,
+  `avatar_path` varchar(200) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `realname` varchar(100) COLLATE utf8_unicode_ci DEFAULT NULL,
   PRIMARY KEY (`uid`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
