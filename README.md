@@ -6,7 +6,7 @@
 
 
 
-> 本项目前后端分离，前端基于Vue仿制[小米商城](www.mi.com) 实现，前端代码已上传至仓库[vue_xiaomi_store](https://github.com/hai-27/store-server)
+> 本项目前后端分离，前端基于Vue仿制[小米商城](www.mi.com) 实现，前端代码已上传至仓库[vue_xiaomi_store](https://github.com/Septemus/vue_xiaomi_store)
 
 
 ## 运行说明
